@@ -1,10 +1,12 @@
 # Heart narration
 
-The game uses **Heart**, Kokoro-82M v1.0 voice `af_heart`, as its consistent English narrator. All 258 current lesson lines are prerecorded and served with the game. No paid speech API, credentials, model server, or installed system voice is needed during play.
+The game uses **Heart**, Kokoro-82M v1.0 voice `af_heart`, as its consistent English narrator. All 293 current lesson lines are prerecorded and served with the game. No paid speech API, credentials, model server, or installed system voice is needed during play.
 
 ## Playback
 
 `src/speech-text.ts` is the shared catalogue of actual prompts, letters, object names, counting totals, hints, greetings, and feedback. `public/audio/manifest.json` maps normalized lines to MP3 files in `public/audio/heart/`. Clips load on demand, decode through Web Audio after a user gesture, and use a bounded 32-clip memory cache.
+
+Fire Truck adds 35 whole-prompt recordings covering all eight color/object goals, hints, retries, discovery feedback, and round completion.
 
 Grown-ups → Test sound previews Heart. The existing sound control mutes both narration and gentle chimes. Changing items, questions, activities, repeating a prompt, hiding the page, or muting cancels current and pending narration. A late network response cannot play an old prompt. If a recording fails, an available English device voice provides a fallback; the app remains usable when no device voice is installed.
 

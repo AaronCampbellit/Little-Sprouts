@@ -1,5 +1,6 @@
 import './style.css';
 import { Narrator } from './audio.ts';
+import { FiretruckGame } from './firetruck-game.ts';
 import { ACTIVITIES, CHARACTERS, activityById } from './content.ts';
 import { makeQuestion, makeRound, recordResult } from './learning.ts';
 import { openParents } from './parents.ts';
@@ -15,7 +16,8 @@ import type { ActivityId, LearningItem, Question } from './types.ts';
 const root = document.querySelector<HTMLDivElement>('#app')!;
 const store = new SaveStore();
 const narrator = new Narrator();
-let screen: 'home' | 'practice' | 'explore' | 'finished' = 'home';
+let screen: 'home' | 'practice' | 'explore' | 'finished' | 'firetruck' = 'home';
+let firetruckGame: FiretruckGame | undefined;
 let activityId: ActivityId = 'numbers';
 let targets: LearningItem[] = [];
 let question: Question | undefined;
@@ -62,11 +64,13 @@ function syncHeader(): void {
 }
 
 async function renderScene(kind: TransitionKind = 'menu'): Promise<void> {
+  firetruckGame?.unmount();
   const version = ++renderVersion;
   const previous = companion; companion = undefined;
   const profile = store.profile;
   document.documentElement.dataset.theme = profile.theme;
   const markup = screen === 'home' ? home(profile)
+    : screen === 'firetruck' ? firetruckGame!.markup()
     : screen === 'explore' ? explore(profile, activityId, selectedItem)
     : screen === 'finished' ? finished(profile, activityId)
     : practice({ profile, question: question!, index: questionIndex, length: targets.length, counted, feedback, hint, wrong });
@@ -74,6 +78,7 @@ async function renderScene(kind: TransitionKind = 'menu'): Promise<void> {
   // Keep the outgoing canvas alive until its content has faded away.
   previous?.destroy();
   if (version !== renderVersion) return;
+  if (screen === 'firetruck') firetruckGame?.mount();
   // Keep the generated friend illustration on compact screens; the optional
   // WebGL companion is reserved for desktop where its rendering is reliable.
   if (screen === 'practice' && !sceneFailed && window.matchMedia('(min-width: 851px)').matches) {
@@ -99,7 +104,7 @@ async function nextQuestion(kind: TransitionKind = 'question'): Promise<void> {
   document.querySelector<HTMLElement>('#question-heading')?.focus({ preventScroll: true });
 }
 
-async function goHome(): Promise<void> { narrator.stop(); screen = 'home'; question = undefined; await renderScene(); }
+async function goHome(): Promise<void> { narrator.stop(); firetruckGame?.unmount(); firetruckGame = undefined; screen = 'home'; question = undefined; await renderScene(); }
 
 function updatePractice(): void {
   if (!question) return;
@@ -174,7 +179,11 @@ root.addEventListener('click', async (event) => {
   narrator.unlock();
   switch (button.dataset.action) {
     case 'home': if (screen !== 'home') await goHome(); break;
-    case 'parents': narrator.stop(); openParents(store, narrator, () => { syncHeader(); void goHome(); }); break;
+    case 'parents': narrator.stop(); firetruckGame?.pause(); openParents(store, narrator, () => { syncHeader(); void goHome(); }); break;
+    case 'firetruck':
+      narrator.stop(); firetruckGame?.unmount(); screen = 'firetruck';
+      firetruckGame = new FiretruckGame(store.profile, narrator, () => store.save(), renderScene);
+      await renderScene(); firetruckGame?.speakPrompt(); break;
     case 'sound':
       store.profile.settings.sound = !store.profile.settings.sound; store.save(); narrator.enabled = store.profile.settings.sound;
       if (narrator.enabled) { narrator.unlock(); narrator.speak(SPEECH.soundOn); } else narrator.stop();

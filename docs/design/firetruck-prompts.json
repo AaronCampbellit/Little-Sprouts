@@ -1,0 +1,16 @@
+{
+  "mode": "built-in ImageGen",
+  "use": "Fire Truck color-and-object mini-game",
+  "reference": "public/assets/objects.png",
+  "initialPrompt": "Use case: scientific-educational. Asset type: transparent production sprite atlas for the Little Sprouts preschool browser game, new Fire Truck color-and-object selection game. Input image: reference image ONLY for soft watercolor children's storybook illustration style, simple recognizable silhouettes and consistent proportions; do not edit its contents. Create a NEW sprite atlas, exactly 4 equal columns by 3 equal rows, all 12 cells square, clean regular alignment, generous transparent gutters, no borders. Preferred image aspect ratio 4:3. Exact reading order: ROW ONE: a friendly BLUE frog, an otherwise identical YELLOW frog, an otherwise identical RED frog, an otherwise identical GREEN frog. Front-facing seated frogs with big friendly eyes, recognizable frog bodies, no accessories. Their whole bodies must clearly be their specified learning color, with paler same-color bellies; no green areas on blue/yellow/red frogs. ROW TWO: a BLUE toy car, YELLOW toy car, RED toy car, GREEN toy car. Same charming rounded side-view car design, each facing right, pale windows, dark neutral wheels, whole body clearly the specified color, no numbers. ROW THREE: a classic RED FIRE TRUCK with ladder, large dark wheels and pale windows, facing right, hose coupling near its top, no flashing lights, no text or digits; a small brass water-hose nozzle pointing up-right; a soft pale-blue water splash; a single pale-blue water droplet. Each picture fully inside its own cell, consistent centered registration, no overlaps, no scenery, no text, no characters driving the vehicles, no flames or emergencies, no gradients behind the objects. Colors must be clear conventional blue #4c8fd1, yellow #e7be37, red #df675d, green #76a675, while preserving the textured illustrated style. True transparent background. These cells will be independently cropped in CSS, so exact grid and padding are essential.",
+  "editPrompt": "Edit this production sprite atlas. Preserve EXACTLY the 4-column by 3-row grid, all eight colored frogs and cars in rows one and two, their colors, positions, sizes and watercolor style. Keep all four red fire trucks in the third row. CHANGE ONLY THESE TWO THINGS: remove ALL blue sprayed water, splashes and drops above every truck, leaving the bare brass hose nozzle pointing upward-right; remove the pale background and colored glow behind every sprite so the background is genuinely alpha transparent. The game draws its water stream dynamically, so there must be NO water painted on any truck sprite. Every sprite must remain completely inside the same square grid cell with generous clear transparent gutters. No text, no extra objects, no new borders. Preserve 4:3 atlas dimensions and identical alignment.",
+  "file": "public/assets/firetruck.png",
+  "grid": {
+    "columns": 4,
+    "rows": 3,
+    "firstRow": "Blue, yellow, red, green frogs",
+    "secondRow": "Blue, yellow, red, green cars",
+    "thirdRow": "Four matching red fire trucks; first cell used"
+  },
+  "transparency": true
+}

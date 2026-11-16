@@ -26,6 +26,14 @@ Diamond is an everyday shape name in this activity. A later geometry module can 
 
 Letters are currently letter-name and visual-recognition activities, not a systematic phonics course. X uses fox as an ending-sound example. We do not imply that xylophone begins with the usual /ks/ sound or use speech synthesis to pronounce isolated phonemes.
 
+## Fire Truck: match two attributes
+
+Fire Truck is a playful, adult-supported extension: listen to a color-and-object prompt, then spray every matching picture. All pictures stay still. A blue car and a yellow frog are distractors for “blue frogs,” so matching just one attribute does not complete the goal.
+
+Little steps uses four pictures with two matches; Growing discoveries uses six with three matches. A visible example, repeated narration, and optional persistent hints support children who are still learning the words. Two-attribute instructions can be more demanding than single-color matching; offer help and choose by interest rather than treating completion as an age expectation.
+
+The child can tap or click, hold and move the hose, or activate picture buttons with the keyboard. There is no time limit, moving target, siren, or emergency scene. Questions advance manually. Completing all matches records one practice observation for that color/object goal; mistakes and hints keep it separate from an unaided first try.
+
 ## A sample shared session
 
 1. Let the child choose a companion and subject.

@@ -1,5 +1,5 @@
 import { ACTIVITIES, CHARACTERS, THEMES, activityById } from './content.ts';
-import { activityArtwork, escapeHtml, icon, itemPicture, mascot, objectPicture, shapePicture } from './ui.ts';
+import { activityArtwork, escapeHtml, firetruckPicture, icon, itemPicture, mascot, objectPicture, shapePicture } from './ui.ts';
 import type { ActivityId, LearningItem, Profile, Question } from './types.ts';
 
 export function header(profile: Profile): string {
@@ -26,6 +26,7 @@ export function home(profile: Profile): string {
       </div>
     </section>
     <section class="activity-selection" aria-labelledby="activity-heading"><h2 id="activity-heading">What shall we play?</h2>
+      <button class="firetruck-launch" data-action="firetruck" aria-label="Play Fire Truck: spray matching colors and pictures"><span class="firetruck-launch-art">${firetruckPicture(8)}</span><span><strong>Fire Truck</strong><span>Spray, find & discover</span></span><span class="firetruck-play">${icon('play')}</span></button>
       <div class="activity-list">${ACTIVITIES.map((a) => `<button class="activity-tile accent-${a.accent}" data-action="activity" data-activity="${a.id}" aria-label="Play ${a.title}: ${a.subtitle}"><span class="activity-art">${activityArtwork(a.id)}</span><span class="tile-caption"><strong>${a.title}</strong><span>${a.subtitle}</span></span></button>`).join('')}</div>
     </section>
     <footer class="app-footer">${icon('leaf')}<span>A little discovery, every day.</span>${icon('leaf')}</footer>

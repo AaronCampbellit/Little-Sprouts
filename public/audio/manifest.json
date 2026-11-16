@@ -844,6 +844,70 @@
       "sha256": "4199d2fbaed28bdd20193772571117625bf72935c2b91c3cc61ae03b17839c4e",
       "peak": 0.64966
     },
+    "Let's look for blue cars. Try another picture.": {
+      "file": "/audio/heart/8f475829dbe49735.mp3",
+      "seconds": 3.0913,
+      "bytes": 31440,
+      "sha256": "8f475829dbe497354a17dcde1a69b8daa89dd3adb56a5bd67d776a3449c3e661",
+      "peak": 0.67515,
+      "pronunciation": "default"
+    },
+    "Let's look for blue frogs. Try another picture.": {
+      "file": "/audio/heart/a7f6311c26782ca9.mp3",
+      "seconds": 3.188,
+      "bytes": 32400,
+      "sha256": "a7f6311c26782ca908a88c9b6e6519c5613878c5cbe56a346eb0b625cc5f2c94",
+      "peak": 0.74226,
+      "pronunciation": "default"
+    },
+    "Let's look for green cars. Try another picture.": {
+      "file": "/audio/heart/f8ae138c3ad392a9.mp3",
+      "seconds": 3.134,
+      "bytes": 31920,
+      "sha256": "f8ae138c3ad392a9bfb832b7b72bd11668328362fbef11f5f949da53a897f028",
+      "peak": 0.70064,
+      "pronunciation": "default"
+    },
+    "Let's look for green frogs. Try another picture.": {
+      "file": "/audio/heart/99560dd1328dcde9.mp3",
+      "seconds": 3.2093,
+      "bytes": 32640,
+      "sha256": "99560dd1328dcde9f1cb590fe9aac92821282279b5a3ada8900ac4bc39ec6143",
+      "peak": 0.70311,
+      "pronunciation": "default"
+    },
+    "Let's look for red cars. Try another picture.": {
+      "file": "/audio/heart/a8d046207c98b94f.mp3",
+      "seconds": 3.0913,
+      "bytes": 31440,
+      "sha256": "a8d046207c98b94ff3704a72f2119a9c40c38b9cb55e67462b9e2e38ad3538ba",
+      "peak": 0.65705,
+      "pronunciation": "default"
+    },
+    "Let's look for red frogs. Try another picture.": {
+      "file": "/audio/heart/690f3c267eb77321.mp3",
+      "seconds": 3.134,
+      "bytes": 31920,
+      "sha256": "690f3c267eb77321beaa6ae0bdc5ac215c41adfcb357296586367650d62a84c2",
+      "peak": 0.69235,
+      "pronunciation": "default"
+    },
+    "Let's look for yellow cars. Try another picture.": {
+      "file": "/audio/heart/26bd887f528a1168.mp3",
+      "seconds": 3.1866,
+      "bytes": 32400,
+      "sha256": "26bd887f528a1168953812a244fc32baf35b7c2c16f705605948afa99dd6320b",
+      "peak": 0.6772,
+      "pronunciation": "default"
+    },
+    "Let's look for yellow frogs. Try another picture.": {
+      "file": "/audio/heart/cc239cfebf268b80.mp3",
+      "seconds": 3.252,
+      "bytes": 33120,
+      "sha256": "cc239cfebf268b80c5c360586ab45f4b095e7751ef39047001c0c459e4ed158e",
+      "peak": 0.70057,
+      "pronunciation": "default"
+    },
     "Look for A. Follow the gentle glow.": {
       "file": "/audio/heart/c016ac15ef9baef1.mp3",
       "seconds": 2.6293,
@@ -1087,6 +1151,22 @@
       "sha256": "4b8efabd596e1b7323e2f760d53e23731fb69e871eda49f0fa3a8588f34ba182",
       "peak": 0.88
     },
+    "Look for blue cars. Follow the gentle glow.": {
+      "file": "/audio/heart/7099c53ede508fce.mp3",
+      "seconds": 3.0387,
+      "bytes": 30960,
+      "sha256": "7099c53ede508fceeb15df7e341fb3540efccb82f92f4df8bae4e9156b22fe0b",
+      "peak": 0.88,
+      "pronunciation": "default"
+    },
+    "Look for blue frogs. Follow the gentle glow.": {
+      "file": "/audio/heart/eb2a5c9a6c9ea2d9.mp3",
+      "seconds": 3.05,
+      "bytes": 31200,
+      "sha256": "eb2a5c9a6c9ea2d9f1a180fa09d3fcf84f727591aa3be1bd10d475e6710097eb",
+      "peak": 0.88,
+      "pronunciation": "default"
+    },
     "Look for blue. Follow the gentle glow.": {
       "file": "/audio/heart/f6ddc8bc2f0bea5c.mp3",
       "seconds": 2.632,
@@ -1150,6 +1230,22 @@
       "sha256": "40ed3f0f4060744b3e06096e9248e4d31fbfbe3e1fe88cb6a97933ff487004d8",
       "peak": 0.88
     },
+    "Look for green cars. Follow the gentle glow.": {
+      "file": "/audio/heart/d34c7e009360d613.mp3",
+      "seconds": 3.05,
+      "bytes": 31200,
+      "sha256": "d34c7e009360d613bd350cf776f8a3939dac5982d62553f283c17a13c970d327",
+      "peak": 0.88,
+      "pronunciation": "default"
+    },
+    "Look for green frogs. Follow the gentle glow.": {
+      "file": "/audio/heart/cc66dd5dfd45cbde.mp3",
+      "seconds": 3.1027,
+      "bytes": 31680,
+      "sha256": "cc66dd5dfd45cbde43932b11d95830286e7080a64d602681eaa73bbeeb6f85fa",
+      "peak": 0.88,
+      "pronunciation": "default"
+    },
     "Look for green. Follow the gentle glow.": {
       "file": "/audio/heart/332f20d0f50d7ad6.mp3",
       "seconds": 2.7187,
@@ -1198,6 +1294,22 @@
       "bytes": 30720,
       "sha256": "d76d6d0e04fbacc863fd18704ba94029439e8ccc1aff64b3b1e418b8745ea531",
       "peak": 0.88
+    },
+    "Look for red cars. Follow the gentle glow.": {
+      "file": "/audio/heart/3147a32af91b9925.mp3",
+      "seconds": 3.0373,
+      "bytes": 30960,
+      "sha256": "3147a32af91b99256cb964c6e806f012900bb117f2a724cd5640f5dcab19b057",
+      "peak": 0.86979,
+      "pronunciation": "default"
+    },
+    "Look for red frogs. Follow the gentle glow.": {
+      "file": "/audio/heart/bdec2949d3b3a94c.mp3",
+      "seconds": 3.05,
+      "bytes": 31200,
+      "sha256": "bdec2949d3b3a94c5e0234550e0e14772ddc91299be823185cea791bc6301778",
+      "peak": 0.84231,
+      "pronunciation": "default"
     },
     "Look for red. Follow the gentle glow.": {
       "file": "/audio/heart/ab80580b1cbe6689.mp3",
@@ -1255,6 +1367,22 @@
       "sha256": "da482bd3233a110a9683de8f708ee670bf0a0b3ba414defbc438e7fbbe2faa02",
       "peak": 0.88
     },
+    "Look for yellow cars. Follow the gentle glow.": {
+      "file": "/audio/heart/d7b1839f17b5cab7.mp3",
+      "seconds": 3.1027,
+      "bytes": 31680,
+      "sha256": "d7b1839f17b5cab72caf2c6f637b170d9224795b63f212db5bcf01bdf0b10ef7",
+      "peak": 0.87129,
+      "pronunciation": "default"
+    },
+    "Look for yellow frogs. Follow the gentle glow.": {
+      "file": "/audio/heart/49c2cad6104c5ac3.mp3",
+      "seconds": 3.208,
+      "bytes": 32640,
+      "sha256": "49c2cad6104c5ac336cc121f60a9ed66a40cb418ae4673b9d45eb5ed733a17a8",
+      "peak": 0.88,
+      "pronunciation": "default"
+    },
     "Look for yellow. Follow the gentle glow.": {
       "file": "/audio/heart/7a6e2e12e4e23f3d.mp3",
       "seconds": 2.7287,
@@ -1268,6 +1396,14 @@
       "bytes": 31680,
       "sha256": "d5dbb9564e8536c52365099df5c11d1c4ce77753477ea01cd28195825089cfac",
       "peak": 0.81947
+    },
+    "Lovely spraying! You found every picture. What a helpful adventure!": {
+      "file": "/audio/heart/e32ed74783c2a74a.mp3",
+      "seconds": 4.3833,
+      "bytes": 44400,
+      "sha256": "e32ed74783c2a74ab1b9937662e754d280908b0e69134c9fa88f4c69fe55a4db",
+      "peak": 0.88,
+      "pronunciation": "default"
     },
     "M. The letter M is for moon.": {
       "file": "/audio/heart/b1239bd27d167240.mp3",
@@ -1292,6 +1428,14 @@
       "sha256": "e4a87ce773c8cb31a9076ec91ff285178ff6feb1bb291aff51da4374cf4baa11",
       "peak": 0.62226,
       "pronunciation": "letter-names-v1"
+    },
+    "One found. Keep looking!": {
+      "file": "/audio/heart/da6908a52f68bdbb.mp3",
+      "seconds": 2.0027,
+      "bytes": 20640,
+      "sha256": "da6908a52f68bdbbeee6b03b32ae3e96cc86d3c595c87785f82cde07ca2c0056",
+      "peak": 0.81386,
+      "pronunciation": "default"
     },
     "P. The letter P is for pig.": {
       "file": "/audio/heart/a6024ec8d558180c.mp3",
@@ -1332,6 +1476,70 @@
       "sha256": "a6e65b828f7769fac9e25a6c58345ee964ec9702ccf2895a29b41371bc9ab422",
       "peak": 0.7326
     },
+    "Spray all the blue cars.": {
+      "file": "/audio/heart/705ad4633a4d3793.mp3",
+      "seconds": 1.7273,
+      "bytes": 17760,
+      "sha256": "705ad4633a4d3793bfd7d96b4419fae236ca6983d012c96f76978b5eac9d64ce",
+      "peak": 0.84349,
+      "pronunciation": "default"
+    },
+    "Spray all the blue frogs.": {
+      "file": "/audio/heart/c6ca85b7ab45a8b8.mp3",
+      "seconds": 1.824,
+      "bytes": 18720,
+      "sha256": "c6ca85b7ab45a8b86832694fc585be60633d401010480fd1def33963dfd172ab",
+      "peak": 0.78134,
+      "pronunciation": "default"
+    },
+    "Spray all the green cars.": {
+      "file": "/audio/heart/170dfbe1de452604.mp3",
+      "seconds": 1.814,
+      "bytes": 18720,
+      "sha256": "170dfbe1de4526046719ae8d6c94b41ad3d02604c51dac88dc4b0c95ecbd38ba",
+      "peak": 0.74534,
+      "pronunciation": "default"
+    },
+    "Spray all the green frogs.": {
+      "file": "/audio/heart/e2691b59203dc415.mp3",
+      "seconds": 1.8767,
+      "bytes": 19440,
+      "sha256": "e2691b59203dc4153055980204ec3cfde015111c1182002ea719d81fd936b99a",
+      "peak": 0.86442,
+      "pronunciation": "default"
+    },
+    "Spray all the red cars.": {
+      "file": "/audio/heart/dc1538ded40eeeb6.mp3",
+      "seconds": 1.7913,
+      "bytes": 18480,
+      "sha256": "dc1538ded40eeeb61eb9cc810c328407fd7d96ef5a4340ad27157f4f925da242",
+      "peak": 0.68418,
+      "pronunciation": "default"
+    },
+    "Spray all the red frogs.": {
+      "file": "/audio/heart/d9702e31aa436b41.mp3",
+      "seconds": 1.8453,
+      "bytes": 18960,
+      "sha256": "d9702e31aa436b41091b79bc284b874e014e1d0601b22b2d2561848e4187bdc3",
+      "peak": 0.69931,
+      "pronunciation": "default"
+    },
+    "Spray all the yellow cars.": {
+      "file": "/audio/heart/675f8d3694965092.mp3",
+      "seconds": 1.9193,
+      "bytes": 19680,
+      "sha256": "675f8d3694965092e12a862fd33893f350087c33ce7e29b92dedd8f7699b8b0b",
+      "peak": 0.69409,
+      "pronunciation": "default"
+    },
+    "Spray all the yellow frogs.": {
+      "file": "/audio/heart/1ea2b54c46ea55b9.mp3",
+      "seconds": 1.9946,
+      "bytes": 20640,
+      "sha256": "1ea2b54c46ea55b9d12f6c8e8f16b084be86b5b5ec31cebce1a7fd6d6be4b661",
+      "peak": 0.68955,
+      "pronunciation": "default"
+    },
     "T. The letter T is for tree.": {
       "file": "/audio/heart/fba1b35545bbcc52.mp3",
       "seconds": 2.3327,
@@ -1339,6 +1547,14 @@
       "sha256": "fba1b35545bbcc5220e4edbfe2e77f003b4d0646ab4de598eb1fab2c6b8a7ad9",
       "peak": 0.88,
       "pronunciation": "letter-names-v1"
+    },
+    "Two found. Keep looking!": {
+      "file": "/audio/heart/e9c5d5bf6592fc5a.mp3",
+      "seconds": 1.9587,
+      "bytes": 20160,
+      "sha256": "e9c5d5bf6592fc5a40871596fea77ffc6ea82c3dccc749e8b9d0a48199fe3972",
+      "peak": 0.75532,
+      "pronunciation": "default"
     },
     "U. The letter U is for umbrella.": {
       "file": "/audio/heart/3a5a6d7022ad736a.mp3",
@@ -1463,6 +1679,70 @@
       "sha256": "bae45f0a0e18035a92914fe967b8f48d56793a43be439d5dd38e7b41e74bf4ee",
       "peak": 0.75001,
       "pronunciation": "letter-names-v1"
+    },
+    "You found all the blue cars. Lovely spraying!": {
+      "file": "/audio/heart/914bf6cfa2b07221.mp3",
+      "seconds": 3.0273,
+      "bytes": 30960,
+      "sha256": "914bf6cfa2b07221c552776af4cb4c8f4f4134dae642fbbe4086f739fa97f599",
+      "peak": 0.81195,
+      "pronunciation": "default"
+    },
+    "You found all the blue frogs. Lovely spraying!": {
+      "file": "/audio/heart/244ba029267097b2.mp3",
+      "seconds": 3.1227,
+      "bytes": 31920,
+      "sha256": "244ba029267097b2c7502404260d40f47c3b3e414af787cf151dd1ca77e76664",
+      "peak": 0.78604,
+      "pronunciation": "default"
+    },
+    "You found all the green cars. Lovely spraying!": {
+      "file": "/audio/heart/8692f0e62ef693db.mp3",
+      "seconds": 3.0913,
+      "bytes": 31440,
+      "sha256": "8692f0e62ef693db57983297b5afd72a95c07d28ca1e447dd20601e1970265c2",
+      "peak": 0.80517,
+      "pronunciation": "default"
+    },
+    "You found all the green frogs. Lovely spraying!": {
+      "file": "/audio/heart/d9143929118fafb1.mp3",
+      "seconds": 3.1667,
+      "bytes": 32160,
+      "sha256": "d9143929118fafb188af5b8da727f335fa6ca77293e42ea6f1a02a17150f8a5b",
+      "peak": 0.81253,
+      "pronunciation": "default"
+    },
+    "You found all the red cars. Lovely spraying!": {
+      "file": "/audio/heart/d5f09a158a109153.mp3",
+      "seconds": 3.0173,
+      "bytes": 30720,
+      "sha256": "d5f09a158a1091537bf4a09856c716f8a3481a0a9725425b5f695f2f44c5d0b2",
+      "peak": 0.82351,
+      "pronunciation": "default"
+    },
+    "You found all the red frogs. Lovely spraying!": {
+      "file": "/audio/heart/0e645ac1a592ac56.mp3",
+      "seconds": 3.06,
+      "bytes": 31200,
+      "sha256": "0e645ac1a592ac561e26585b7c576d26c39e755fd2d28d69f4c7dbadf0e11389",
+      "peak": 0.76049,
+      "pronunciation": "default"
+    },
+    "You found all the yellow cars. Lovely spraying!": {
+      "file": "/audio/heart/b79fde5d92f1def0.mp3",
+      "seconds": 3.144,
+      "bytes": 31920,
+      "sha256": "b79fde5d92f1def0a457f450d1f4ac4362fcfe6404f6061a1d34a76c673c5a24",
+      "peak": 0.78741,
+      "pronunciation": "default"
+    },
+    "You found all the yellow frogs. Lovely spraying!": {
+      "file": "/audio/heart/b7f5225cae3fc60e.mp3",
+      "seconds": 3.262,
+      "bytes": 33120,
+      "sha256": "b7f5225cae3fc60e5eaeb68bf61e304c399bc17c9c4396554874ef238d9dd4f9",
+      "peak": 0.75484,
+      "pronunciation": "default"
     },
     "You found the apple!": {
       "file": "/audio/heart/c1ef451139cb001c.mp3",

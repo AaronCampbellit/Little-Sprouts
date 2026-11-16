@@ -47,7 +47,7 @@ export function makeQuestion(id: ActivityId, target: LearningItem, settings: Set
   return { activity: id, target, choices, prompt: prompts[id][0], instruction: prompts[id][1], skill: `${id}:${target.id}` };
 }
 
-export function recordResult(profile: Profile, question: Question, mistakes: number, usedHint: boolean): void {
+export function recordResult(profile: Profile, question: Pick<Question, 'skill'>, mistakes: number, usedHint: boolean): void {
   const current = profile.progress[question.skill] ?? { attempts: 0, firstTry: 0, completed: 0, hints: 0 };
   current.attempts += 1 + mistakes;
   current.completed += 1;

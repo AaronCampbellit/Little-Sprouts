@@ -29,3 +29,11 @@ The shared timing policy distinguishes quick interaction from calmly paced actio
 - Native SVG symbols replace raster control symbols so controls remain crisp and accessible.
 - The game uses real selectable worlds, settings, local profiles, and learning responses, extending the illustrated hub into a working application.
 - At widths up to 850 px, the companion uses its generated illustration. The optional Phaser animation loads on desktop; compact-screen controls, learning rules, and motion policy are identical. The illustration stays visible until an animated first frame is available.
+
+## Fire Truck mini-game
+
+The home screen adds a full-width Fire Truck launch button above the five core activity tiles. Its board uses stationary picture buttons, a parked illustrated truck, and a pointer-driven SVG water stream. Native buttons provide tap, click, and keyboard selection; holding and moving a mouse or finger aims the hose. Dragging pauses briefly over each new picture before selecting it, so crossing the board does not require fast action.
+
+Matching requires both color and object. Four-pictures/two-matches and six-pictures/three-matches layouts follow the selected stage. The compact landscape layout keeps the prompt, board, and controls together. Hints use a steady outline, found pictures retain their check marks, and Next appears only when all matches have been found. Manual continuation and the shared transition timings apply throughout. No sirens, flashing lights, fire, deadlines, or moving targets are used.
+
+`public/assets/firetruck.png` is a transparent four-column, three-row atlas. Frogs and cars occupy the first two rows in blue/yellow/red/green order. The first red truck in row three is used. The browser draws the water; it is not painted into the truck image. See [the complete ImageGen prompts](firetruck-prompts.json).

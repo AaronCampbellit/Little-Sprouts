@@ -1,5 +1,6 @@
 import { ACTIVITIES, CHARACTERS } from './content.ts';
 import { makeQuestion } from './learning.ts';
+import { firetruckNarrationTexts } from './firetruck.ts';
 import type { CharacterId, Question, Settings, ThemeId } from './types.ts';
 
 /** One source for runtime prompts and the recordings made for them. */
@@ -44,6 +45,7 @@ export function narrationTexts(): string[] {
   const settings: Settings = { stage: 'growing', maxNumber: 10, letterCase: 'upper', roundLength: 5, sound: true };
   const texts = new Set<string>(Object.values(SPEECH).map(normalizeSpeechText));
   const add = (text: string) => texts.add(normalizeSpeechText(text));
+  firetruckNarrationTexts().forEach(add);
   for (const character of ['milo', 'pip'] as const) add(characterGreeting(character));
   for (const theme of ['woodland', 'starlight'] as const) {
     for (const activity of ACTIVITIES) for (const item of activity.items) {

@@ -33,6 +33,10 @@ export function objectPicture(index: number, className = ''): string {
   return `<span class="object-picture ${className}" style="--object-x:${(index % 4) / 3 * 100}%;--object-y:${Math.floor(index / 4) / 2 * 100}%" aria-hidden="true"></span>`;
 }
 
+export function firetruckPicture(index: number, className = ''): string {
+  return `<span class="firetruck-picture ${className}" style="--fire-x:${index % 4 / 3 * 100}%;--fire-y:${Math.floor(index / 4) / 2 * 100}%" aria-hidden="true"></span>`;
+}
+
 export function shapePicture(label: string, className = ''): string {
   const shapes: Record<string, string> = {
     circle: '<circle cx="50" cy="50" r="40"/>',

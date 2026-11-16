@@ -21,10 +21,23 @@ Little Sprouts started as a small family game for a three-year-old, with room to
 | **Colors** | Ten colors: red, blue, yellow, green, orange, purple, pink, brown, black, and white |
 | **Shapes** | Circle, square, triangle, rectangle, oval, star, heart, and diamond |
 | **Our world** | Twelve familiar objects, including animals, toys, food, and everyday things |
+| **Fire Truck** | Spray every matching picture by color and object: blue frogs, yellow cars, and more |
 
 Choose **Milo the fox** or **Pip the bunny**, then visit **Woodland** or **Starlight**. Characters and worlds share the same learning records, so changing the scenery does not reset discoveries.
 
+### Fire Truck
+
+Aim the fire truck's hose and spray every matching picture. **“Spray all the blue frogs”** asks the child to notice both color and object—a blue car or a yellow frog stays unsprayed.
+
+Click or tap a picture, hold and move the mouse or finger to spray across the board, or use the keyboard to activate the picture buttons. Heart speaks the prompt, hints gently highlight matching pictures, and each found picture keeps its water-and-check mark. There are no sirens, flames, moving targets, or time limits. The next discovery stays unavailable until every match is found, and the child chooses when to continue.
+
+Little steps offers four pictures with two matches; Growing discoveries offers six pictures with three matches. Rounds follow the grown-up setting of five or ten discoveries, beginning with blue frogs and yellow cars. Fire Truck records its own local progress alongside the other activities.
+
+![Fire Truck asks for blue frogs, with a parked fire truck and stationary picture choices](docs/images/firetruck.png)
+
 ### Two ways to play
+
+The five core activities—Numbers, Letters, Colors, Shapes, and Our world—offer these modes:
 
 - **Explore:** choose any item and hear its name. All ten numbers and the complete alphabet are always available.
 - **Play a round:** try five or ten questions, repeat instructions, ask for a hint, and continue when ready. Correct answers wait for the child to choose the next discovery.
@@ -111,7 +124,7 @@ Content fades through the existing scene. Reduced-motion preferences remove deco
 
 ## A consistent voice
 
-**Heart** narrates the game through **258 self-hosted recordings**, generated locally with Kokoro-82M. Clips load as needed and play through Web Audio; no installed system voice is required. Repeat, mute, activity changes, and leaving the page cancel current or pending narration, including delayed requests.
+**Heart** narrates the game through **293 self-hosted recordings**, generated locally with Kokoro-82M. Clips load as needed and play through Web Audio; no installed system voice is required. Repeat, mute, activity changes, and leaving the page cancel current or pending narration, including delayed requests.
 
 An available English device voice is a fallback if a recording cannot play. **Grown-ups → Test sound** previews Heart. The parent settings identify the recordings as AI-generated.
 
@@ -136,6 +149,8 @@ The app uses **TypeScript, Vite, native HTML/CSS, and Phaser**. Learning control
 src/
   content.ts          Activities, characters, worlds, and item catalogues
   learning.ts         Questions, rounds, and progress accounting
+  firetruck.ts        Color-and-object goals, boards, and matching rules
+  firetruck-game.ts   Hose input, mini-game presentation, and round lifecycle
   speech-text.ts      Shared runtime and recording text
   audio.ts            Heart playback, cancellation, caching, and fallback
   recordings.ts       Audio manifest validation and lookup

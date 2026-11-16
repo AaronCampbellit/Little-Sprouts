@@ -1,9 +1,10 @@
 import { ACTIVITIES } from './content.ts';
+import { FIRETRUCK_GOALS, fireSkill } from './firetruck.ts';
 import type { Profile, SaveData, Settings, SkillProgress } from './types.ts';
 
 export const STORAGE_KEY = 'little-sprouts:v1';
 export const DEFAULT_SETTINGS: Settings = { stage: 'growing', maxNumber: 10, letterCase: 'upper', roundLength: 5, sound: true };
-const allowedSkills = new Set(ACTIVITIES.flatMap((a) => a.items.map((i) => `${a.id}:${i.id}`)));
+const allowedSkills = new Set([...ACTIVITIES.flatMap((a) => a.items.map((i) => `${a.id}:${i.id}`)), ...FIRETRUCK_GOALS.map(fireSkill)]);
 const isRecord = (value: unknown): value is Record<string, unknown> => typeof value === 'object' && value !== null && !Array.isArray(value);
 const counter = (value: unknown): number => typeof value === 'number' && Number.isSafeInteger(value) && value >= 0 && value <= 1_000_000 ? value : 0;
 

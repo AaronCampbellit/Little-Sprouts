@@ -10,7 +10,7 @@ These notices describe third-party components used by Little Sprouts. They do no
 | [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) | Optional local voice-generation tooling | MIT; [included license](public/licenses/kokoro-onnx-MIT.txt) |
 | [Vite](https://github.com/vitejs/vite) | Development server and production bundling | MIT; distributed through the locked npm dependencies |
 | [TypeScript](https://github.com/microsoft/TypeScript) | Type checking | Apache-2.0; distributed through the locked npm dependencies |
-| ImageGen illustrations | Character, landscape, object atlases, and design concept | AI-generated project assets; [prompts and file provenance](docs/design/image-prompts.json) |
+| ImageGen illustrations | Character, landscape, object atlases, and design concept | AI-generated project assets; [original prompts](docs/design/image-prompts.json) and [Fire Truck prompts](docs/design/firetruck-prompts.json) |
 
 The game ships generated MP3 recordings, not speech-model weights or a Python runtime. See the [audio notice](public/audio/NOTICE.txt) and [narration workflow](docs/VOICES.md) for the generation details. Narration is identified as AI-generated in the grown-up settings.
 
