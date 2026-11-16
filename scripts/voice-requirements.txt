@@ -1,0 +1,4 @@
+# Build-only tools, installed in .voice-venv after user approval.
+kokoro-onnx==0.6.1
+soundfile==0.14.0
+lameenc==1.9.0

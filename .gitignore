@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.playwright-cli/
+*.log
+.DS_Store
+.voice-venv/
+.voice-cache/
+__pycache__/
+coverage/
+*.tsbuildinfo
+little-sprouts-backup-*.json

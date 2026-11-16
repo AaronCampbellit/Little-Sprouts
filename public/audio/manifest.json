@@ -1,0 +1,1896 @@
+{
+  "version": 1,
+  "voice": "heart",
+  "displayName": "Heart",
+  "model": "Kokoro-82M v1.0",
+  "language": "en-US",
+  "sampleRate": 24000,
+  "speed": 0.94,
+  "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "clips": {
+    "1": {
+      "file": "/audio/heart/6b86b273ff34fce1.mp3",
+      "seconds": 0.7753,
+      "bytes": 8400,
+      "sha256": "73c5dfb3579cb8a8366cff6aba79eb2cfd70e2e60a695eff499aa9efe302ed58",
+      "peak": 0.59516
+    },
+    "1 apple.": {
+      "file": "/audio/heart/ed54c7a2399957dc.mp3",
+      "seconds": 1.138,
+      "bytes": 12000,
+      "sha256": "1f6e32229673b11cd1e752d650035c9a2ef5a250067866e6adcfcc23708a1044",
+      "peak": 0.76733
+    },
+    "1 star.": {
+      "file": "/audio/heart/a02a11d96ff21032.mp3",
+      "seconds": 1.138,
+      "bytes": 12000,
+      "sha256": "d3c55d0697be730649ab3a68ae159c6f45175995faf5d9a27c12b1b26cbddb2b",
+      "peak": 0.73544
+    },
+    "1. 1 altogether. Can you find 1?": {
+      "file": "/audio/heart/c4d696e4c7ae30e4.mp3",
+      "seconds": 2.7827,
+      "bytes": 28320,
+      "sha256": "99daf347b2497ba90158f3d5d28d8e2641968e439c9c560a4f7a385755dcc0a0",
+      "peak": 0.86583
+    },
+    "10": {
+      "file": "/audio/heart/4a44dc15364204a8.mp3",
+      "seconds": 0.7967,
+      "bytes": 8640,
+      "sha256": "0acbf82f7390eedf738fb68ca72c9098f39a823500b1ffbb379523ce7c4e56b9",
+      "peak": 0.49449
+    },
+    "10 apples.": {
+      "file": "/audio/heart/98a0cef105bc4db8.mp3",
+      "seconds": 1.202,
+      "bytes": 12720,
+      "sha256": "3623686d9c008773d65b7896a42c1d1bf1e22a0befa0cb5bf2f25fa9b031dfe3",
+      "peak": 0.85108
+    },
+    "10 stars.": {
+      "file": "/audio/heart/2fa18c65c63df788.mp3",
+      "seconds": 1.1807,
+      "bytes": 12480,
+      "sha256": "5c6d0a271d4ed03cca451abc3156fdaa9876858c04470420dca3876eceff894d",
+      "peak": 0.68875
+    },
+    "10. 10 altogether. Can you find 10?": {
+      "file": "/audio/heart/90a12d3c9059ad82.mp3",
+      "seconds": 3.0453,
+      "bytes": 30960,
+      "sha256": "8006575a69a4e8222a6dc2bbb8142bb5ad4ba5ec9f69fc64728fdf9333de13c1",
+      "peak": 0.88
+    },
+    "2": {
+      "file": "/audio/heart/d4735e3a265e16ee.mp3",
+      "seconds": 0.9033,
+      "bytes": 9600,
+      "sha256": "5e4ee8097c4840f01ffd3b8692c3ffd45c3e2d319a7429c96ab104193fe9b22a",
+      "peak": 0.5996
+    },
+    "2 apples.": {
+      "file": "/audio/heart/56f3aaf6c0c7365e.mp3",
+      "seconds": 1.1167,
+      "bytes": 11760,
+      "sha256": "4c8d54c9fb9624229ade44deffab800faf0e9747ce59bc482cac12cecbdff98f",
+      "peak": 0.70068
+    },
+    "2 stars.": {
+      "file": "/audio/heart/760f690561ebe90f.mp3",
+      "seconds": 1.148,
+      "bytes": 12000,
+      "sha256": "d9c2030eba40b83effdb1c5c2bb9e961caf5131755fb4428c1a45f7edfecaefc",
+      "peak": 0.74868
+    },
+    "2. 2 altogether. Can you find 2?": {
+      "file": "/audio/heart/97cbfb9bdafa04dd.mp3",
+      "seconds": 2.8647,
+      "bytes": 29280,
+      "sha256": "d92466c8ce5d12e9c10944e81778f7bb0981e5d04332f19c8356592543dbc02c",
+      "peak": 0.88
+    },
+    "3": {
+      "file": "/audio/heart/4e07408562bedb8b.mp3",
+      "seconds": 0.882,
+      "bytes": 9360,
+      "sha256": "25e76e5452d36f82d418ba9f2f586739e9c2e40bf22683da2c118d9589c69507",
+      "peak": 0.7234
+    },
+    "3 apples.": {
+      "file": "/audio/heart/ac0f2a7db0bd485a.mp3",
+      "seconds": 1.1807,
+      "bytes": 12480,
+      "sha256": "0798de423e0405cccb0a6de0bfbe1e801d75f890570d919f17369568880870c7",
+      "peak": 0.73305
+    },
+    "3 stars.": {
+      "file": "/audio/heart/6305b086aada13f7.mp3",
+      "seconds": 1.212,
+      "bytes": 12720,
+      "sha256": "29f85e2c2166bcef14ad4ebf8d0da9f535ea564b786b6c499f7a9dd0320f4a62",
+      "peak": 0.82719
+    },
+    "3. 3 altogether. Can you find 3?": {
+      "file": "/audio/heart/ff10d26dbed03045.mp3",
+      "seconds": 2.8253,
+      "bytes": 28800,
+      "sha256": "9e44718ad9955f5d47968e8f2cef10a7021a33756466314269a8dc9105f9e74e",
+      "peak": 0.88
+    },
+    "4": {
+      "file": "/audio/heart/4b227777d4dd1fc6.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "4984c158ad78ef74a7efd1fe8f2e116f61034f17a8e1e36f9464bf876e68a220",
+      "peak": 0.87264
+    },
+    "4 apples.": {
+      "file": "/audio/heart/f4a37e434c03273c.mp3",
+      "seconds": 1.2006,
+      "bytes": 12720,
+      "sha256": "f7825ee2467ba4f5766dd64196b716869707af713927cde336fe0c50a75d0578",
+      "peak": 0.78915
+    },
+    "4 stars.": {
+      "file": "/audio/heart/3d1b0e2867f85131.mp3",
+      "seconds": 1.2333,
+      "bytes": 12960,
+      "sha256": "e2805b6d225039461a38f633644abce039e14f879d8614e51cef18652c4a8e69",
+      "peak": 0.83507
+    },
+    "4. 4 altogether. Can you find 4?": {
+      "file": "/audio/heart/5ea43d6be7462921.mp3",
+      "seconds": 2.8993,
+      "bytes": 29520,
+      "sha256": "d0a2bd4a9ba92779b6423d07f0945505f83a7782a59cbd1d35c5b436a4c49045",
+      "peak": 0.7979
+    },
+    "5": {
+      "file": "/audio/heart/ef2d127de37b942b.mp3",
+      "seconds": 0.9033,
+      "bytes": 9600,
+      "sha256": "de5fa9189255adaec951fdf70bc07f90dcf3033675f29c4f4eb8a1b3e79f8546",
+      "peak": 0.88
+    },
+    "5 apples.": {
+      "file": "/audio/heart/cce8fc11fe8f5a7f.mp3",
+      "seconds": 1.266,
+      "bytes": 13200,
+      "sha256": "6641df5d85c682b8bcfbcfb242bf3c2f20cfec7387da8e72ee6c9d98615a8d15",
+      "peak": 0.80663
+    },
+    "5 stars.": {
+      "file": "/audio/heart/790b15aac766bbc3.mp3",
+      "seconds": 1.266,
+      "bytes": 13200,
+      "sha256": "7981a9dd8eb39a3c557f0ef47bea773e2969f8f50a66d1829b392ca205b2e265",
+      "peak": 0.85182
+    },
+    "5. 5 altogether. Can you find 5?": {
+      "file": "/audio/heart/aa0fd0db255c8b98.mp3",
+      "seconds": 3.2973,
+      "bytes": 33600,
+      "sha256": "b940b19441a7737da8046a3da4f111645614e583fbd65792e9512597260bd780",
+      "peak": 0.88
+    },
+    "6": {
+      "file": "/audio/heart/e7f6c011776e8db7.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "9d74b67bb7c5af8d08c5b538a8f15a318133af1cf9fe4298f63042aa6764531a",
+      "peak": 0.78009
+    },
+    "6 apples.": {
+      "file": "/audio/heart/aed953c11fa88f7d.mp3",
+      "seconds": 1.2233,
+      "bytes": 12720,
+      "sha256": "cbd6d991d02b97a8532929d3866c3ba55aee47b06300b776fa2090a300591327",
+      "peak": 0.88
+    },
+    "6 stars.": {
+      "file": "/audio/heart/d8679898771fc2b7.mp3",
+      "seconds": 1.202,
+      "bytes": 12720,
+      "sha256": "57f7c0012d257650f9de80ea565ad429dd4ee5a2edbb94e0eaea5f458ecd9f89",
+      "peak": 0.87873
+    },
+    "6. 6 altogether. Can you find 6?": {
+      "file": "/audio/heart/0020c9e61d99aa79.mp3",
+      "seconds": 3.256,
+      "bytes": 33120,
+      "sha256": "2df778a1cb438786b5b166b5ae7e8e4f98f5427b9f150364380f2a3708f90fb1",
+      "peak": 0.88
+    },
+    "7": {
+      "file": "/audio/heart/7902699be42c8a8e.mp3",
+      "seconds": 0.9247,
+      "bytes": 9840,
+      "sha256": "d7257f32e73852d4bd58f9f0df0ffbf5aefe5e60bb3382cec3027bb1a01672e3",
+      "peak": 0.67047
+    },
+    "7 apples.": {
+      "file": "/audio/heart/ec0d85ca7246ada1.mp3",
+      "seconds": 1.2973,
+      "bytes": 13680,
+      "sha256": "77636a65291330f289050dfa35b4f63f4f6df1c70d030dc98f208c5996951b02",
+      "peak": 0.84043
+    },
+    "7 stars.": {
+      "file": "/audio/heart/703e2e3608bbdf4e.mp3",
+      "seconds": 1.2747,
+      "bytes": 13440,
+      "sha256": "8d18a345d24a8efc13be7b73aad33ca8ce96f448969bbba40619a506698a999b",
+      "peak": 0.74026
+    },
+    "7. 7 altogether. Can you find 7?": {
+      "file": "/audio/heart/c9e3acff190046d8.mp3",
+      "seconds": 3.0826,
+      "bytes": 31440,
+      "sha256": "8538620484ad541ffb8b9dd8e97ef5890f2567f93e9de61b021f92e93d81715e",
+      "peak": 0.88
+    },
+    "8": {
+      "file": "/audio/heart/2c624232cdd22177.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "c308881bbbc83c561d6caf7aea2a3a78591470a62d379855ddaa456d69266eff",
+      "peak": 0.58376
+    },
+    "8 apples.": {
+      "file": "/audio/heart/36c5aa7b1b03bde0.mp3",
+      "seconds": 1.202,
+      "bytes": 12720,
+      "sha256": "44b1ac63155a2bd9a1d329573a3748a7a044734fe1dbdbf0859c462c05b3a2f2",
+      "peak": 0.82635
+    },
+    "8 stars.": {
+      "file": "/audio/heart/b101e92275fb653c.mp3",
+      "seconds": 1.2333,
+      "bytes": 12960,
+      "sha256": "c9adc5e15d8a5bf85c9b245da0bbad2615018e8583316aa30a721e2bf303f212",
+      "peak": 0.75097
+    },
+    "8. 8 altogether. Can you find 8?": {
+      "file": "/audio/heart/f6ccba3c3bc280be.mp3",
+      "seconds": 2.9927,
+      "bytes": 30480,
+      "sha256": "78e6dfd926570edb22def23b1fcca250f207da22997a59515c4686be31057962",
+      "peak": 0.88
+    },
+    "9": {
+      "file": "/audio/heart/19581e27de7ced00.mp3",
+      "seconds": 0.9033,
+      "bytes": 9600,
+      "sha256": "679a3bc80360ca82015a6bffa97c209ee9858ad35cf0baeb42b8c557c605d538",
+      "peak": 0.52712
+    },
+    "9 apples.": {
+      "file": "/audio/heart/c0ea199976b94979.mp3",
+      "seconds": 1.2946,
+      "bytes": 13440,
+      "sha256": "6a2993799979f850f56e347c58f400d0caa732ce2e586c0d9b297317f5916529",
+      "peak": 0.70358
+    },
+    "9 stars.": {
+      "file": "/audio/heart/7be86e18fea85eff.mp3",
+      "seconds": 1.2747,
+      "bytes": 13440,
+      "sha256": "f4acd1026190dd219ad764064daa41975843b120fe1babaaf6dbe4c5e905a02d",
+      "peak": 0.72528
+    },
+    "9. 9 altogether. Can you find 9?": {
+      "file": "/audio/heart/32846373b2dbdfe4.mp3",
+      "seconds": 3.2287,
+      "bytes": 32880,
+      "sha256": "b2a8a960a94ce9e1dc9a72734a039dd6aa7865d63dde788554eabb9c9b0ba51c",
+      "peak": 0.88
+    },
+    "A. The letter A is for apple.": {
+      "file": "/audio/heart/aece9cd74ddbefb8.mp3",
+      "seconds": 2.2887,
+      "bytes": 23520,
+      "sha256": "aece9cd74ddbefb8806dfff63888b5a5903c558401a059946e83a820e0e22d1c",
+      "peak": 0.71535,
+      "pronunciation": "letter-names-v1"
+    },
+    "B. The letter B is for ball.": {
+      "file": "/audio/heart/8f56da3fd8017a8a.mp3",
+      "seconds": 2.2927,
+      "bytes": 23520,
+      "sha256": "8f56da3fd8017a8a2e3eb38db1e09cf92877f5ab8f6da86e9cc4931534ef7be1",
+      "peak": 0.7315,
+      "pronunciation": "letter-names-v1"
+    },
+    "C. The letter C is for cat.": {
+      "file": "/audio/heart/37e9e3cf561edbc1.mp3",
+      "seconds": 2.0487,
+      "bytes": 21120,
+      "sha256": "37e9e3cf561edbc108a577db7dab16c2859b144132d325262e6aca458deec3cf",
+      "peak": 0.70427,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find black?": {
+      "file": "/audio/heart/1aaf8c6101d26fee.mp3",
+      "seconds": 1.4387,
+      "bytes": 14880,
+      "sha256": "8225b644b38fa8fc344c867b15bc7573a7b7a6570794ec49e2d1a6148e7cb98a",
+      "peak": 0.81774
+    },
+    "Can you find blue?": {
+      "file": "/audio/heart/3e844bf0b36be930.mp3",
+      "seconds": 1.4073,
+      "bytes": 14640,
+      "sha256": "3897666dc0bc7fde1bd065c21a4ebf765b76b2b75288c4521c6a04fd81727c5b",
+      "peak": 0.88
+    },
+    "Can you find brown?": {
+      "file": "/audio/heart/13e4721bd48de432.mp3",
+      "seconds": 1.43,
+      "bytes": 14880,
+      "sha256": "a0e6f086594f571e617f550c54ed258bef7cc21c4bc035a3b08a41233c2392e9",
+      "peak": 0.84588
+    },
+    "Can you find green?": {
+      "file": "/audio/heart/25ffaa8e5ef94a23.mp3",
+      "seconds": 1.42,
+      "bytes": 14880,
+      "sha256": "43033100005b97cb238f690bedc3f26a46a5f223ffbf8b429117aa95dd57fcb4",
+      "peak": 0.88
+    },
+    "Can you find orange?": {
+      "file": "/audio/heart/933e2a73d9e5e3ae.mp3",
+      "seconds": 1.504,
+      "bytes": 15600,
+      "sha256": "b45f1268d2f2da972277cbd1e6d0b7aa67687fdccc2afeb0920a89c59db56b70",
+      "peak": 0.73482
+    },
+    "Can you find pink?": {
+      "file": "/audio/heart/bcaa985ddc190774.mp3",
+      "seconds": 1.3973,
+      "bytes": 14640,
+      "sha256": "3963abd41df59d774842cd1a43319f02af6606bb8c2eb41fe81d873c0d81a3c1",
+      "peak": 0.88
+    },
+    "Can you find purple?": {
+      "file": "/audio/heart/f8985d1a92445f49.mp3",
+      "seconds": 1.504,
+      "bytes": 15600,
+      "sha256": "48366a840d1ff46dc5fe3bdde9226024bc498fae110d65e0c3a0191291d5521d",
+      "peak": 0.72332
+    },
+    "Can you find red?": {
+      "file": "/audio/heart/7979e9b47bab0276.mp3",
+      "seconds": 1.4087,
+      "bytes": 14640,
+      "sha256": "d72b3896e7059ec16a3478ba05c8eec577e8fe07c5a5d224de8475adeb129c0a",
+      "peak": 0.80453
+    },
+    "Can you find the circle?": {
+      "file": "/audio/heart/f85db219374eebf3.mp3",
+      "seconds": 1.6106,
+      "bytes": 16800,
+      "sha256": "854f58c8e9ba66468bd4013d17fe63b520d31da5b325a3e7903fe6bdc2d9e91d",
+      "peak": 0.81746
+    },
+    "Can you find the diamond?": {
+      "file": "/audio/heart/8a1faec7dc51f524.mp3",
+      "seconds": 1.7073,
+      "bytes": 17760,
+      "sha256": "c04d762d150f4a598b677152772280e635900609d44b09273cebb6e712b2bb2c",
+      "peak": 0.88
+    },
+    "Can you find the heart?": {
+      "file": "/audio/heart/0c3ac12c2eb81d7c.mp3",
+      "seconds": 1.5667,
+      "bytes": 16320,
+      "sha256": "e944be9d70a9eeb77f4234f4cf748eae5619d927b3c26f3e76e43c0dcbddf75b",
+      "peak": 0.76468
+    },
+    "Can you find the letter A?": {
+      "file": "/audio/heart/97b187423ce43b10.mp3",
+      "seconds": 1.6533,
+      "bytes": 17040,
+      "sha256": "97b187423ce43b104a6759eaa2eb7f095ddcc3a70aa76dc588aa01cd748cb9dc",
+      "peak": 0.71028,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter B?": {
+      "file": "/audio/heart/492b804ac67609da.mp3",
+      "seconds": 1.696,
+      "bytes": 17520,
+      "sha256": "492b804ac67609da09c3dbdee8e7417812ba7206e0954b54db4a1fc5c411bb86",
+      "peak": 0.87579,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter C?": {
+      "file": "/audio/heart/0f846adcdfe60495.mp3",
+      "seconds": 1.5907,
+      "bytes": 16560,
+      "sha256": "0f846adcdfe6049594ab2aa9f7ae6e076e894a2fb7e0b662e48e6340a59e0f76",
+      "peak": 0.73764,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter D?": {
+      "file": "/audio/heart/d01feec54959b0b1.mp3",
+      "seconds": 1.6533,
+      "bytes": 17040,
+      "sha256": "d01feec54959b0b1d302ad9153e06e29639180d5bf7eaf0b34eb69c9e2a6947c",
+      "peak": 0.79151,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter E?": {
+      "file": "/audio/heart/f333aafe4e19aa1f.mp3",
+      "seconds": 1.6746,
+      "bytes": 17280,
+      "sha256": "f333aafe4e19aa1f2d7b0c48fc57eb036ee534812f340c256dec661d496709db",
+      "peak": 0.74378,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter F?": {
+      "file": "/audio/heart/eceeba3bbf5fa260.mp3",
+      "seconds": 1.6407,
+      "bytes": 17040,
+      "sha256": "eceeba3bbf5fa2603e0931c4462ef858e87101d6f4865e7b7e883992fb8e755d",
+      "peak": 0.66758,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter G?": {
+      "file": "/audio/heart/ae6393825ccef6a3.mp3",
+      "seconds": 1.7173,
+      "bytes": 17760,
+      "sha256": "ae6393825ccef6a316890fcccfc3de7c1ee4dd4d9ccdb6696a7bf9cd211b8853",
+      "peak": 0.79216,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter H?": {
+      "file": "/audio/heart/bf90c6515ea683f4.mp3",
+      "seconds": 1.7473,
+      "bytes": 18000,
+      "sha256": "bf90c6515ea683f42869e8bd5b711eb816baf722183c3576dbeb179db213ab2a",
+      "peak": 0.80701,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter I?": {
+      "file": "/audio/heart/4c881490832faf7e.mp3",
+      "seconds": 1.6433,
+      "bytes": 17040,
+      "sha256": "4c881490832faf7eefdd56b27481de428e7b92d90c3ac283dd4a9ba1ac9fad22",
+      "peak": 0.74015,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter J?": {
+      "file": "/audio/heart/d5c7419e61d0ec7c.mp3",
+      "seconds": 1.7287,
+      "bytes": 18000,
+      "sha256": "d5c7419e61d0ec7c3a7cdc30c451b3533eb5f8af0c4f26d87fbe0929d9ecedff",
+      "peak": 0.74402,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter K?": {
+      "file": "/audio/heart/2769eeea827cbaaf.mp3",
+      "seconds": 1.6333,
+      "bytes": 17040,
+      "sha256": "2769eeea827cbaafc9cf43ada7577008595ccbf49ea0b56a65a55128339a5cda",
+      "peak": 0.76765,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter L?": {
+      "file": "/audio/heart/12188f39cbccd431.mp3",
+      "seconds": 1.5993,
+      "bytes": 16560,
+      "sha256": "12188f39cbccd431cf042ef4875da0b5f3ea1ce0f2e30d3951ceb4de31ca7646",
+      "peak": 0.65392,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter M?": {
+      "file": "/audio/heart/1da2ab83a1e2563c.mp3",
+      "seconds": 1.6007,
+      "bytes": 16560,
+      "sha256": "1da2ab83a1e2563cadc61376e3930abd7ceb6866dbad127c9121d4dba18225de",
+      "peak": 0.76707,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter N?": {
+      "file": "/audio/heart/28c66f7d67ecb5f5.mp3",
+      "seconds": 1.602,
+      "bytes": 16560,
+      "sha256": "28c66f7d67ecb5f53cd499fe559d77be85ae8656c77698c55ebe2bcda245e2da",
+      "peak": 0.72432,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter O?": {
+      "file": "/audio/heart/57c0e3b638efbb21.mp3",
+      "seconds": 1.6007,
+      "bytes": 16560,
+      "sha256": "57c0e3b638efbb2117529372394ae393a489491f05746fa03d2b5d65b81f1949",
+      "peak": 0.62551,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter P?": {
+      "file": "/audio/heart/164ced7d3065f00e.mp3",
+      "seconds": 1.7173,
+      "bytes": 17760,
+      "sha256": "164ced7d3065f00e11910754f40d060045d899baca7f6b332410cc9ca6f064b9",
+      "peak": 0.81255,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter Q?": {
+      "file": "/audio/heart/2d597bd2a34645d2.mp3",
+      "seconds": 1.6746,
+      "bytes": 17280,
+      "sha256": "2d597bd2a34645d20684aa572ac88a46972d7a2a748485dadbb45871d7c58c45",
+      "peak": 0.81373,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter R?": {
+      "file": "/audio/heart/5223519c105baa3a.mp3",
+      "seconds": 1.6746,
+      "bytes": 17280,
+      "sha256": "5223519c105baa3a882d77918738e3f6c34ab63abac90a161e24d005d078f598",
+      "peak": 0.68425,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter S?": {
+      "file": "/audio/heart/ebda16726834cb0d.mp3",
+      "seconds": 1.6633,
+      "bytes": 17280,
+      "sha256": "ebda16726834cb0d442fd98fcf1e813936fb14ded8fdc818272dccb28e04a1d9",
+      "peak": 0.75889,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter T?": {
+      "file": "/audio/heart/5a29245ae108c0af.mp3",
+      "seconds": 1.696,
+      "bytes": 17520,
+      "sha256": "5a29245ae108c0afd0cd375e60fd3ec330e97206b816201a76fd7d92f04ed152",
+      "peak": 0.83743,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter U?": {
+      "file": "/audio/heart/bbd95bb56f731dce.mp3",
+      "seconds": 1.622,
+      "bytes": 16800,
+      "sha256": "bbd95bb56f731dceea014e09fb19b40a3ca769bac4c0248f7eb1725a3c4382a4",
+      "peak": 0.79392,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter V?": {
+      "file": "/audio/heart/62f733866f6c0e38.mp3",
+      "seconds": 1.6433,
+      "bytes": 17040,
+      "sha256": "62f733866f6c0e386d229c200548205912474c16499fd2706fb90c66acca35a1",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter W?": {
+      "file": "/audio/heart/9ea45d92feec5350.mp3",
+      "seconds": 1.9207,
+      "bytes": 19920,
+      "sha256": "9ea45d92feec535051297506de46d4860a6f459442d7da62c923af40f01a1316",
+      "peak": 0.829,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter X?": {
+      "file": "/audio/heart/6fa015bee301a043.mp3",
+      "seconds": 1.7147,
+      "bytes": 17760,
+      "sha256": "6fa015bee301a04357f1d00dab140e427e7f7fa8a5d58ce6a1aed400113b001e",
+      "peak": 0.72349,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter Y?": {
+      "file": "/audio/heart/db8e704048896c2d.mp3",
+      "seconds": 1.6547,
+      "bytes": 17040,
+      "sha256": "db8e704048896c2da0c49fc8977b7158e2d35c1333d616a3af377dfb9ea2d5a7",
+      "peak": 0.83402,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the letter Z?": {
+      "file": "/audio/heart/86551745a72d471a.mp3",
+      "seconds": 1.686,
+      "bytes": 17520,
+      "sha256": "86551745a72d471a4fffc25a6eeb24bbde894fb4df75b97f8e9d5347f7feb128",
+      "peak": 0.83541,
+      "pronunciation": "letter-names-v1"
+    },
+    "Can you find the oval?": {
+      "file": "/audio/heart/2bc17412cedddfb8.mp3",
+      "seconds": 1.5466,
+      "bytes": 16080,
+      "sha256": "86e4c63366fe9528a43e8280d992682620b8e3274fbbc334cfdf93664a5b5c5f",
+      "peak": 0.85035
+    },
+    "Can you find the rectangle?": {
+      "file": "/audio/heart/02e4c941ba816354.mp3",
+      "seconds": 1.7713,
+      "bytes": 18240,
+      "sha256": "92ff517ed43c43911ca1836236ca4a0a2801f5ccb709968a6ab5fdfa84bc000d",
+      "peak": 0.7657
+    },
+    "Can you find the square?": {
+      "file": "/audio/heart/5e4adc6fd2fe1693.mp3",
+      "seconds": 1.4826,
+      "bytes": 15360,
+      "sha256": "8c5c92faffda7d8e70182e9095bac9cc2d02f71ff60b996d1d564255c36f304c",
+      "peak": 0.7845
+    },
+    "Can you find the star?": {
+      "file": "/audio/heart/e527ac2f8f08f9ec.mp3",
+      "seconds": 1.504,
+      "bytes": 15600,
+      "sha256": "2a9b4dec1802a46915283636e56cec19cc504a30012b26d019924ebe02566610",
+      "peak": 0.73944
+    },
+    "Can you find the triangle?": {
+      "file": "/audio/heart/81c94980a01ac54a.mp3",
+      "seconds": 1.6973,
+      "bytes": 17520,
+      "sha256": "3e2c3a75293d7af89d74a6df3b6ddc19538ab36482e44e3468b0695c60ede82d",
+      "peak": 0.87251
+    },
+    "Can you find white?": {
+      "file": "/audio/heart/8faf0928fd43dad4.mp3",
+      "seconds": 1.4073,
+      "bytes": 14640,
+      "sha256": "021967adcb2665bd72c68324acb8bfca409128b9af3bb44ed32fb0a67ae41854",
+      "peak": 0.72021
+    },
+    "Can you find yellow?": {
+      "file": "/audio/heart/c3b993f731433ce3.mp3",
+      "seconds": 1.44,
+      "bytes": 14880,
+      "sha256": "00cdaa4831fa87e2fa6839b447cafd11e75dca7662600ad7b30b6dc9e0a03498",
+      "peak": 0.82261
+    },
+    "Choose one to look, listen, and learn.": {
+      "file": "/audio/heart/0ad900a4c4cd1480.mp3",
+      "seconds": 2.3573,
+      "bytes": 24240,
+      "sha256": "fd9e7e487ead1d2edc0e811803fc0154977d970681e3300290ca930ebdf168ea",
+      "peak": 0.74629
+    },
+    "D. The letter D is for dog.": {
+      "file": "/audio/heart/d3278739253f457e.mp3",
+      "seconds": 2.3126,
+      "bytes": 23760,
+      "sha256": "d3278739253f457e66b7fbae1947818ba615e8fa81db4b901553b38f467c628a",
+      "peak": 0.74077,
+      "pronunciation": "letter-names-v1"
+    },
+    "E. The letter E is for egg.": {
+      "file": "/audio/heart/c16228572c8aa8d2.mp3",
+      "seconds": 1.952,
+      "bytes": 20160,
+      "sha256": "c16228572c8aa8d2c068c43630e24a7b0b6341a87f8895ef5e9965e3ea5a2534",
+      "peak": 0.56759,
+      "pronunciation": "letter-names-v1"
+    },
+    "F. The letter F is for fish.": {
+      "file": "/audio/heart/ec219aa064c12e1a.mp3",
+      "seconds": 2.448,
+      "bytes": 24960,
+      "sha256": "ec219aa064c12e1a9d457949e8022e8a162d226a74b5967a1291b57e11335db0",
+      "peak": 0.78135,
+      "pronunciation": "letter-names-v1"
+    },
+    "G. The letter G is for goat.": {
+      "file": "/audio/heart/7f41b2580e2d66b6.mp3",
+      "seconds": 2.4433,
+      "bytes": 24960,
+      "sha256": "7f41b2580e2d66b6118cba038c6afd85dfed0eefa4e2660ebc2fb8a85777e2db",
+      "peak": 0.82392,
+      "pronunciation": "letter-names-v1"
+    },
+    "H. The letter H is for hat.": {
+      "file": "/audio/heart/7571d71cdb5533eb.mp3",
+      "seconds": 2.1967,
+      "bytes": 22560,
+      "sha256": "7571d71cdb5533ebef18d57fe41c9796cfbce507b09e3e123fd36758015f1f0e",
+      "peak": 0.69325,
+      "pronunciation": "letter-names-v1"
+    },
+    "Hello! I'm Milo. Let's explore together.": {
+      "file": "/audio/heart/bc4cd9f14301c785.mp3",
+      "seconds": 3.1293,
+      "bytes": 31920,
+      "sha256": "dcbea590b8a0ac6fb00244280e0cf4c66350926efe9d5174f9946cff8bb6d532",
+      "peak": 0.79404
+    },
+    "Hello! I'm Pip. Let's explore together.": {
+      "file": "/audio/heart/bd24b05a059d3f1d.mp3",
+      "seconds": 2.7073,
+      "bytes": 27600,
+      "sha256": "cfdd6fa18c69868b7f1c53542c433014a699b2c3bc8776cd9c964edf77278913",
+      "peak": 0.73832
+    },
+    "Hello, little explorer! Let's play and discover together.": {
+      "file": "/audio/heart/c43daa073de890a3.mp3",
+      "seconds": 3.5507,
+      "bytes": 36000,
+      "sha256": "130d4a2a6fa0d3f1520ae9ffaef7f36b6c57342098d3fd080d9b7a5b4bb20ac8",
+      "peak": 0.72837
+    },
+    "How many apples can you see?": {
+      "file": "/audio/heart/a45315753fc34e38.mp3",
+      "seconds": 1.7713,
+      "bytes": 18240,
+      "sha256": "8940afb7f0db31a9134147b514120cf63b272b225f8846f907f096b4df221030",
+      "peak": 0.88
+    },
+    "How many stars can you see?": {
+      "file": "/audio/heart/3a5bf22dcd75dde6.mp3",
+      "seconds": 1.794,
+      "bytes": 18480,
+      "sha256": "42d6c55f24c6472132118455411bca4f2a7e9619eff57452ce548b14e8097493",
+      "peak": 0.818
+    },
+    "I. The letter I is for insect.": {
+      "file": "/audio/heart/64f111d155ce649d.mp3",
+      "seconds": 2.4693,
+      "bytes": 25200,
+      "sha256": "64f111d155ce649d469f8d8876ef2d68394f5df7d80ac65b9761feacdc7560fe",
+      "peak": 0.72512,
+      "pronunciation": "letter-names-v1"
+    },
+    "J. The letter J is for jam.": {
+      "file": "/audio/heart/0d337f8c4d351249.mp3",
+      "seconds": 2.5286,
+      "bytes": 25920,
+      "sha256": "0d337f8c4d3512499c6a4b6ea5112354f9954bc7c2de49654aa02e7a019057fb",
+      "peak": 0.78158,
+      "pronunciation": "letter-names-v1"
+    },
+    "K. The letter K is for kite.": {
+      "file": "/audio/heart/913b5a7e1793434a.mp3",
+      "seconds": 2.0813,
+      "bytes": 21360,
+      "sha256": "913b5a7e1793434a936bd2fd3226ff0b48b4074e7fbc223be19f659f297092d8",
+      "peak": 0.73487,
+      "pronunciation": "letter-names-v1"
+    },
+    "L. The letter L is for leaf.": {
+      "file": "/audio/heart/4973b4117091fa6d.mp3",
+      "seconds": 2.2447,
+      "bytes": 23040,
+      "sha256": "4973b4117091fa6d8c9ad016fb29119a00a9f423daea35d75d237e6a1b1c8edc",
+      "peak": 0.78671,
+      "pronunciation": "letter-names-v1"
+    },
+    "Let's count together. There are 1. Follow the glowing number.": {
+      "file": "/audio/heart/714170988ae4374f.mp3",
+      "seconds": 3.6846,
+      "bytes": 37440,
+      "sha256": "cc3e69160f26f288dba932d70b42d23e7250dc3fad12ab1197d426932142425d",
+      "peak": 0.88
+    },
+    "Let's count together. There are 10. Follow the glowing number.": {
+      "file": "/audio/heart/3dc13c40657f3376.mp3",
+      "seconds": 3.8553,
+      "bytes": 39120,
+      "sha256": "3f84d6cc73f7f2e22e7d9ebab879dedfc21d1f891752513aa1df184b88f36916",
+      "peak": 0.88
+    },
+    "Let's count together. There are 2. Follow the glowing number.": {
+      "file": "/audio/heart/bb13f4d90cd0ec18.mp3",
+      "seconds": 3.784,
+      "bytes": 38400,
+      "sha256": "f49f23b26c5160f356d341a2dbe9c1854914b85395c7dbccc09aada1720d1869",
+      "peak": 0.88
+    },
+    "Let's count together. There are 3. Follow the glowing number.": {
+      "file": "/audio/heart/7b326ce5f4214d8a.mp3",
+      "seconds": 3.814,
+      "bytes": 38640,
+      "sha256": "db82c72cfd53fb83859778d1c1707da6c426a96c17b8b1a71697d36cbae05a1a",
+      "peak": 0.88
+    },
+    "Let's count together. There are 4. Follow the glowing number.": {
+      "file": "/audio/heart/5fa227206e491f03.mp3",
+      "seconds": 3.7387,
+      "bytes": 37920,
+      "sha256": "c36bda4ab08c51c23c61f5053710ce664113ed3763317560294383c1c5f61de6",
+      "peak": 0.88
+    },
+    "Let's count together. There are 5. Follow the glowing number.": {
+      "file": "/audio/heart/7ce264b282e49616.mp3",
+      "seconds": 3.746,
+      "bytes": 38160,
+      "sha256": "c6853534cee546a3a40cddf3d148299915d50eff0d5fc74dbc41e92e0ffc5985",
+      "peak": 0.88
+    },
+    "Let's count together. There are 6. Follow the glowing number.": {
+      "file": "/audio/heart/6b4a368da8907d86.mp3",
+      "seconds": 3.7986,
+      "bytes": 38640,
+      "sha256": "fc1f568e69d8f1a7777af3ef6b417598fc16cc860f3ff13c18692c5906630d49",
+      "peak": 0.88
+    },
+    "Let's count together. There are 7. Follow the glowing number.": {
+      "file": "/audio/heart/8ca2104b3f43d635.mp3",
+      "seconds": 3.784,
+      "bytes": 38400,
+      "sha256": "d80d74d61c4811ff65d4260f9657e30ff06ef9b624d0649a8ad1b692f61a797d",
+      "peak": 0.87452
+    },
+    "Let's count together. There are 8. Follow the glowing number.": {
+      "file": "/audio/heart/9b87ae45f7193fa4.mp3",
+      "seconds": 3.78,
+      "bytes": 38400,
+      "sha256": "2d8de97579251842ac98dd76050f96706937a05ce3cd8b45d0287c2307e57475",
+      "peak": 0.88
+    },
+    "Let's count together. There are 9. Follow the glowing number.": {
+      "file": "/audio/heart/3fd4bc994acc529c.mp3",
+      "seconds": 3.838,
+      "bytes": 38880,
+      "sha256": "02720a290cc049cdb2ff51291833f9f56adaee4444b601047047ecbf14e78f6c",
+      "peak": 0.88
+    },
+    "Let's explore together.": {
+      "file": "/audio/heart/dd8fac30f9e7d287.mp3",
+      "seconds": 1.6207,
+      "bytes": 16800,
+      "sha256": "cd6f41da95ed3a690c4f85b6126ea977e8df858dd01e39d95a2dcbe59a2e1f4e",
+      "peak": 0.73744
+    },
+    "Let's have another look. You can do it.": {
+      "file": "/audio/heart/c069df95c597812f.mp3",
+      "seconds": 2.4887,
+      "bytes": 25440,
+      "sha256": "4199d2fbaed28bdd20193772571117625bf72935c2b91c3cc61ae03b17839c4e",
+      "peak": 0.64966
+    },
+    "Look for A. Follow the gentle glow.": {
+      "file": "/audio/heart/c016ac15ef9baef1.mp3",
+      "seconds": 2.6293,
+      "bytes": 26880,
+      "sha256": "c016ac15ef9baef14ea2f3b63f616ce53afaeea1e5bbf6ff7152477a55fddda0",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for B. Follow the gentle glow.": {
+      "file": "/audio/heart/a3185f82f6cac7b1.mp3",
+      "seconds": 2.6293,
+      "bytes": 26880,
+      "sha256": "a3185f82f6cac7b177c05b43e7a76d763ed848d1790f69728652b0511e97cd0f",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for C. Follow the gentle glow.": {
+      "file": "/audio/heart/749ffd07ada24147.mp3",
+      "seconds": 2.6647,
+      "bytes": 27360,
+      "sha256": "749ffd07ada24147893af623207de01d9d3685ee1d645180242212a869b0bed2",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for D. Follow the gentle glow.": {
+      "file": "/audio/heart/e97fb36f1b857964.mp3",
+      "seconds": 2.6207,
+      "bytes": 26880,
+      "sha256": "e97fb36f1b8579646942c69ab3ece8dc035c57f7856c32072e424ff1df475f29",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for E. Follow the gentle glow.": {
+      "file": "/audio/heart/737a61e11c0187ba.mp3",
+      "seconds": 2.6393,
+      "bytes": 26880,
+      "sha256": "737a61e11c0187ba515febef9bf8322ce13ae1fe8272f24bfdd5cf0b8c7b929c",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for F. Follow the gentle glow.": {
+      "file": "/audio/heart/ffa72400f21d7002.mp3",
+      "seconds": 2.658,
+      "bytes": 27120,
+      "sha256": "ffa72400f21d7002f57f1630e0b2a0d92d1ddd159563d9f9ebc3c01d5f8de523",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for G. Follow the gentle glow.": {
+      "file": "/audio/heart/f303968602bea308.mp3",
+      "seconds": 2.6833,
+      "bytes": 27360,
+      "sha256": "f303968602bea308b00a79d0568f399ed54a61ad88208389e83328cf8da82127",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for H. Follow the gentle glow.": {
+      "file": "/audio/heart/fa4bbe67f5309f7a.mp3",
+      "seconds": 2.658,
+      "bytes": 27120,
+      "sha256": "fa4bbe67f5309f7ade84bb48004a7af756e4ecfba82b0eec5db7889e101c92c2",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for I. Follow the gentle glow.": {
+      "file": "/audio/heart/249f166e1bc7ec67.mp3",
+      "seconds": 2.6933,
+      "bytes": 27600,
+      "sha256": "249f166e1bc7ec67f8c8649c458cf3f6586a8dc67dc8acbd598a1f62a9380f69",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for J. Follow the gentle glow.": {
+      "file": "/audio/heart/002c2eb170c1f26a.mp3",
+      "seconds": 2.696,
+      "bytes": 27600,
+      "sha256": "002c2eb170c1f26a11bfdccbf242d0c168e0120ab9f3306c5d2eb4ba7c2734fd",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for K. Follow the gentle glow.": {
+      "file": "/audio/heart/070cb7024b48b760.mp3",
+      "seconds": 2.6507,
+      "bytes": 27120,
+      "sha256": "070cb7024b48b76075e6b0ded0bafd9c11f397ec850bcfecf83f613cc6b768b8",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for L. Follow the gentle glow.": {
+      "file": "/audio/heart/0520c3e00ca9e339.mp3",
+      "seconds": 2.6507,
+      "bytes": 27120,
+      "sha256": "0520c3e00ca9e339698934b19a1915ddcdfa8cda890c32d4c573056da82e125f",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for M. Follow the gentle glow.": {
+      "file": "/audio/heart/92e47cc528dc97cf.mp3",
+      "seconds": 2.662,
+      "bytes": 27120,
+      "sha256": "92e47cc528dc97cf0568004e3d839bac679772cba1a8c2a49b482c0172f58f4c",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for N. Follow the gentle glow.": {
+      "file": "/audio/heart/eaf71485d0b51253.mp3",
+      "seconds": 2.6433,
+      "bytes": 27120,
+      "sha256": "eaf71485d0b512537515002bf1730bcbc7ddd8dad59550eba12c57180e7b8b60",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for O. Follow the gentle glow.": {
+      "file": "/audio/heart/ebbfed8ff80f2c70.mp3",
+      "seconds": 2.6507,
+      "bytes": 27120,
+      "sha256": "ebbfed8ff80f2c70b0e6045992fd3a63d9d78a780d6690d51e649b0544951f33",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for P. Follow the gentle glow.": {
+      "file": "/audio/heart/287e945b5e2cc98b.mp3",
+      "seconds": 2.6933,
+      "bytes": 27600,
+      "sha256": "287e945b5e2cc98b7b4f63c324562981613971cfe68280ff63be7d2a88f611e5",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for Q. Follow the gentle glow.": {
+      "file": "/audio/heart/5043d4c40992505a.mp3",
+      "seconds": 2.672,
+      "bytes": 27360,
+      "sha256": "5043d4c40992505afdb0562f36eebe2e64c28ff518f12d851c70668542f5b0ae",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for R. Follow the gentle glow.": {
+      "file": "/audio/heart/64f142e72c8a038a.mp3",
+      "seconds": 2.6633,
+      "bytes": 27120,
+      "sha256": "64f142e72c8a038a6476374e81f36be7cf90a28c27acba01ea747ffd50e054d6",
+      "peak": 0.87411,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for S. Follow the gentle glow.": {
+      "file": "/audio/heart/51355bdba48f4a45.mp3",
+      "seconds": 2.696,
+      "bytes": 27600,
+      "sha256": "51355bdba48f4a45f8d2f12eb8ef24bc436127fb03b4322f016e56bf2e010289",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for T. Follow the gentle glow.": {
+      "file": "/audio/heart/2797e98f0875e498.mp3",
+      "seconds": 2.6733,
+      "bytes": 27360,
+      "sha256": "2797e98f0875e498ad619ef77e93fb797188ec391caf49ae3145773ea09d374c",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for U. Follow the gentle glow.": {
+      "file": "/audio/heart/eff4c8fa83fbad2b.mp3",
+      "seconds": 2.632,
+      "bytes": 26880,
+      "sha256": "eff4c8fa83fbad2b1999253dd00d123a076c680bed617738d0674fee0f196f2c",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for V. Follow the gentle glow.": {
+      "file": "/audio/heart/53db7f04120ca755.mp3",
+      "seconds": 2.632,
+      "bytes": 26880,
+      "sha256": "53db7f04120ca75585b12c753fb65650d9cd491c931fa48f0c8ad26285f24a6f",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for W. Follow the gentle glow.": {
+      "file": "/audio/heart/531805e102b82a37.mp3",
+      "seconds": 2.8013,
+      "bytes": 28560,
+      "sha256": "531805e102b82a37936d6b967db55a161364cc527cadbb62896516ff48dd6e96",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for X. Follow the gentle glow.": {
+      "file": "/audio/heart/b6a98c70c8709360.mp3",
+      "seconds": 2.7333,
+      "bytes": 27840,
+      "sha256": "b6a98c70c87093604a98a334138519f3de5a2308410e0d93e81fadabee012f80",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for Y. Follow the gentle glow.": {
+      "file": "/audio/heart/fbe0737ce44c630c.mp3",
+      "seconds": 2.6833,
+      "bytes": 27360,
+      "sha256": "fbe0737ce44c630c6b3b6550d28aedd55cf20242f2bbfc3c34f2c90092c0802d",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for Z. Follow the gentle glow.": {
+      "file": "/audio/heart/f61d5ea0b41caae5.mp3",
+      "seconds": 2.6747,
+      "bytes": 27360,
+      "sha256": "f61d5ea0b41caae51ec5a6437068a1323c3ffa07ad78d3065321af1329ea00db",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "Look for apple. Follow the gentle glow.": {
+      "file": "/audio/heart/b1168dcb971d9f2f.mp3",
+      "seconds": 2.6847,
+      "bytes": 27360,
+      "sha256": "91b10318f66d5d864782c8afcf676fa1068aea871f2955204150336543ffd665",
+      "peak": 0.88
+    },
+    "Look for ball. Follow the gentle glow.": {
+      "file": "/audio/heart/848940630ee2f24f.mp3",
+      "seconds": 2.6419,
+      "bytes": 27120,
+      "sha256": "d478c0fae971096fc4c317551e511be8eca236bd2e801f414c8bced37a9768ff",
+      "peak": 0.88
+    },
+    "Look for banana. Follow the gentle glow.": {
+      "file": "/audio/heart/f675d24782cf4990.mp3",
+      "seconds": 2.7927,
+      "bytes": 28560,
+      "sha256": "80a8aff8e2fc18b1dad9c34a2d975bc433312ce5229affa1b11690ea15cc96b6",
+      "peak": 0.88
+    },
+    "Look for bird. Follow the gentle glow.": {
+      "file": "/audio/heart/8ca2fb5f99302c39.mp3",
+      "seconds": 2.6833,
+      "bytes": 27360,
+      "sha256": "2fe42270805a9388003c8a00030101b517201f0f787207f434a14128d02c6e15",
+      "peak": 0.88
+    },
+    "Look for black. Follow the gentle glow.": {
+      "file": "/audio/heart/02e9ee667763f92d.mp3",
+      "seconds": 2.702,
+      "bytes": 27600,
+      "sha256": "4b8efabd596e1b7323e2f760d53e23731fb69e871eda49f0fa3a8588f34ba182",
+      "peak": 0.88
+    },
+    "Look for blue. Follow the gentle glow.": {
+      "file": "/audio/heart/f6ddc8bc2f0bea5c.mp3",
+      "seconds": 2.632,
+      "bytes": 26880,
+      "sha256": "5b2ea93e807ef9215ab1411dc96a71665c6d5b9d4956a75c22c602edf5bf19e7",
+      "peak": 0.88
+    },
+    "Look for brown. Follow the gentle glow.": {
+      "file": "/audio/heart/813b3ce3e7eca97f.mp3",
+      "seconds": 2.7287,
+      "bytes": 27840,
+      "sha256": "7c56f14a381c2ca37adc533bca9a2847a3741992bf56f7781342b1b4abd3e372",
+      "peak": 0.88
+    },
+    "Look for car. Follow the gentle glow.": {
+      "file": "/audio/heart/bd900aceffb9d63f.mp3",
+      "seconds": 2.6646,
+      "bytes": 27360,
+      "sha256": "b774ca913f519dbdb49cd46dcc7dd9e4470074473d32a2b8a8392646f0eba0fd",
+      "peak": 0.88
+    },
+    "Look for cat. Follow the gentle glow.": {
+      "file": "/audio/heart/9d199470898e0612.mp3",
+      "seconds": 2.6393,
+      "bytes": 26880,
+      "sha256": "afb3499d6794405d5292849ede2fc4f1b806f3da7410b674836c6820899677a4",
+      "peak": 0.88
+    },
+    "Look for circle. Follow the gentle glow.": {
+      "file": "/audio/heart/0dc3c6364825e462.mp3",
+      "seconds": 2.75,
+      "bytes": 28080,
+      "sha256": "09a3efa3c017b32c3927432d64cf81517d683ce0197d0f57ab984dd7775df472",
+      "peak": 0.88
+    },
+    "Look for cup. Follow the gentle glow.": {
+      "file": "/audio/heart/a909b0573ae1060a.mp3",
+      "seconds": 2.628,
+      "bytes": 26880,
+      "sha256": "c509ab6e615bbf921aabbb040f60406ca7b3e17fc4b18ca1f8634a929982ccf2",
+      "peak": 0.88
+    },
+    "Look for diamond. Follow the gentle glow.": {
+      "file": "/audio/heart/1add00a76ef16d2b.mp3",
+      "seconds": 2.8993,
+      "bytes": 29520,
+      "sha256": "bf1307b48419a40e4d995842a066b1983ae93b8f131c08ee814143b11d70bf98",
+      "peak": 0.88
+    },
+    "Look for dog. Follow the gentle glow.": {
+      "file": "/audio/heart/db25715b300b8d08.mp3",
+      "seconds": 2.7287,
+      "bytes": 27840,
+      "sha256": "59d3226d25706aede8b665823a4166bddf2ccacf4f673493391a4ab59c9b0e27",
+      "peak": 0.88
+    },
+    "Look for fish. Follow the gentle glow.": {
+      "file": "/audio/heart/cfdae11d78a0ac5a.mp3",
+      "seconds": 2.706,
+      "bytes": 27600,
+      "sha256": "40ed3f0f4060744b3e06096e9248e4d31fbfbe3e1fe88cb6a97933ff487004d8",
+      "peak": 0.88
+    },
+    "Look for green. Follow the gentle glow.": {
+      "file": "/audio/heart/332f20d0f50d7ad6.mp3",
+      "seconds": 2.7187,
+      "bytes": 27840,
+      "sha256": "6c84d0b27a47f6c160dfe710c9cba4d21deda5e979674112f9343648b7a711fa",
+      "peak": 0.88
+    },
+    "Look for heart. Follow the gentle glow.": {
+      "file": "/audio/heart/3da886fcaf7764ec.mp3",
+      "seconds": 2.6607,
+      "bytes": 27120,
+      "sha256": "b2c0540c853a7c6450db95de2b1227c845846440ab237b76345c4a62a361f896",
+      "peak": 0.86199
+    },
+    "Look for orange. Follow the gentle glow.": {
+      "file": "/audio/heart/342ed33830ca72cd.mp3",
+      "seconds": 2.814,
+      "bytes": 28800,
+      "sha256": "0f4425f195d8e69cf98e92ffb9b4b66f4d6bd0c598207bb33fbea54fcc94352d",
+      "peak": 0.88
+    },
+    "Look for oval. Follow the gentle glow.": {
+      "file": "/audio/heart/1bbab5f0c0b3ab60.mp3",
+      "seconds": 2.7173,
+      "bytes": 27840,
+      "sha256": "37d1145ca31971aa03b916cc86dbf870eead30d4225036b2e31daabf73bfe0bd",
+      "peak": 0.88
+    },
+    "Look for pink. Follow the gentle glow.": {
+      "file": "/audio/heart/d7b64a8d644a9477.mp3",
+      "seconds": 2.6733,
+      "bytes": 27360,
+      "sha256": "c17e03f49b437420bf1292598c6c94e6a9028ecf5484dd74506123e463e3a189",
+      "peak": 0.88
+    },
+    "Look for purple. Follow the gentle glow.": {
+      "file": "/audio/heart/115b69ef3fc0e660.mp3",
+      "seconds": 2.75,
+      "bytes": 28080,
+      "sha256": "a6b9416ab4d5657100a0b02b10bca04fc78a56ad9b0964ccb8996a99e1040226",
+      "peak": 0.88
+    },
+    "Look for rectangle. Follow the gentle glow.": {
+      "file": "/audio/heart/a53ddbbefc0d29f2.mp3",
+      "seconds": 3.0173,
+      "bytes": 30720,
+      "sha256": "d76d6d0e04fbacc863fd18704ba94029439e8ccc1aff64b3b1e418b8745ea531",
+      "peak": 0.88
+    },
+    "Look for red. Follow the gentle glow.": {
+      "file": "/audio/heart/ab80580b1cbe6689.mp3",
+      "seconds": 2.6206,
+      "bytes": 26880,
+      "sha256": "3aece9c3252935eb818fea0cb619dc39191dbf31395f8229f9820164475828e0",
+      "peak": 0.88
+    },
+    "Look for shoe. Follow the gentle glow.": {
+      "file": "/audio/heart/11c1815c1af0ef2a.mp3",
+      "seconds": 2.622,
+      "bytes": 26880,
+      "sha256": "f06f20197d2182d01a64263bc6dddeae3de2af9b9db81401829ef3a3acbd3d73",
+      "peak": 0.88
+    },
+    "Look for square. Follow the gentle glow.": {
+      "file": "/audio/heart/ad01cddc9ac9f796.mp3",
+      "seconds": 2.6973,
+      "bytes": 27600,
+      "sha256": "a7af2dcfad01f2fa71c1d31bbfae7a6d2587659e4d42a511b9828c786f0dac50",
+      "peak": 0.88
+    },
+    "Look for star. Follow the gentle glow.": {
+      "file": "/audio/heart/e9859fadda8416c5.mp3",
+      "seconds": 2.686,
+      "bytes": 27360,
+      "sha256": "348bca17301acf14858431c95b8c3159820db3152e59ecd951f794b5f1c0e6b1",
+      "peak": 0.88
+    },
+    "Look for teddy bear. Follow the gentle glow.": {
+      "file": "/audio/heart/3d3f0cb5880d08a9.mp3",
+      "seconds": 2.942,
+      "bytes": 30000,
+      "sha256": "7e07908e8d8212d3b3a7dbe80934b29592534a5991dcdd6f64cc4599d663786c",
+      "peak": 0.88
+    },
+    "Look for tree. Follow the gentle glow.": {
+      "file": "/audio/heart/cee31f3ca4499ce2.mp3",
+      "seconds": 2.74,
+      "bytes": 28080,
+      "sha256": "fa383c3b073ad02aa4c2f1d536465139c8460fd540c01efe2554a065b3da623b",
+      "peak": 0.88
+    },
+    "Look for triangle. Follow the gentle glow.": {
+      "file": "/audio/heart/c00c9583cb832d52.mp3",
+      "seconds": 2.986,
+      "bytes": 30480,
+      "sha256": "911be669a3082d48d49ed41f865eb45ca4612b28fb088247314bbebc90308f18",
+      "peak": 0.88
+    },
+    "Look for white. Follow the gentle glow.": {
+      "file": "/audio/heart/bab1493d2c36387f.mp3",
+      "seconds": 2.652,
+      "bytes": 27120,
+      "sha256": "da482bd3233a110a9683de8f708ee670bf0a0b3ba414defbc438e7fbbe2faa02",
+      "peak": 0.88
+    },
+    "Look for yellow. Follow the gentle glow.": {
+      "file": "/audio/heart/7a6e2e12e4e23f3d.mp3",
+      "seconds": 2.7287,
+      "bytes": 27840,
+      "sha256": "865b7df1be1d8076014929d80cc08442831f946402c6567aa590f9fe6aac02b1",
+      "peak": 0.88
+    },
+    "Look what you discovered! What a lovely adventure.": {
+      "file": "/audio/heart/a2110c73641b8c73.mp3",
+      "seconds": 3.1027,
+      "bytes": 31680,
+      "sha256": "d5dbb9564e8536c52365099df5c11d1c4ce77753477ea01cd28195825089cfac",
+      "peak": 0.81947
+    },
+    "M. The letter M is for moon.": {
+      "file": "/audio/heart/b1239bd27d167240.mp3",
+      "seconds": 2.4146,
+      "bytes": 24720,
+      "sha256": "b1239bd27d1672404c3183dcbbdccabe782a7daef7c7e3e903167a1409fdbff4",
+      "peak": 0.79917,
+      "pronunciation": "letter-names-v1"
+    },
+    "N. The letter N is for nest.": {
+      "file": "/audio/heart/4898d9effd7957a9.mp3",
+      "seconds": 2.324,
+      "bytes": 23760,
+      "sha256": "4898d9effd7957a9ca58e4a1c6aa592a473db4b859c369cf012f07e9195927a8",
+      "peak": 0.71464,
+      "pronunciation": "letter-names-v1"
+    },
+    "O. The letter O is for octopus.": {
+      "file": "/audio/heart/e4a87ce773c8cb31.mp3",
+      "seconds": 2.356,
+      "bytes": 24240,
+      "sha256": "e4a87ce773c8cb31a9076ec91ff285178ff6feb1bb291aff51da4374cf4baa11",
+      "peak": 0.62226,
+      "pronunciation": "letter-names-v1"
+    },
+    "P. The letter P is for pig.": {
+      "file": "/audio/heart/a6024ec8d558180c.mp3",
+      "seconds": 2.006,
+      "bytes": 20640,
+      "sha256": "a6024ec8d558180cb6447e390c03242236e4ad9364eae2b0f0acaa153498ec18",
+      "peak": 0.72501,
+      "pronunciation": "letter-names-v1"
+    },
+    "Q. The letter Q is for queen.": {
+      "file": "/audio/heart/07856ac13d98a38d.mp3",
+      "seconds": 2.2093,
+      "bytes": 22800,
+      "sha256": "07856ac13d98a38d6b3696182ef83e4c53e54c5a0dd8c988aaf2c7c8c4b9f0cb",
+      "peak": 0.81055,
+      "pronunciation": "letter-names-v1"
+    },
+    "R. The letter R is for rabbit.": {
+      "file": "/audio/heart/a4e788af8d45dd17.mp3",
+      "seconds": 2.4847,
+      "bytes": 25440,
+      "sha256": "a4e788af8d45dd17d31ef83187ee7781861af92a46b609247953bd35647f5e33",
+      "peak": 0.668,
+      "pronunciation": "letter-names-v1"
+    },
+    "S. The letter S is for sun.": {
+      "file": "/audio/heart/1f1f806bd0cb75da.mp3",
+      "seconds": 2.324,
+      "bytes": 23760,
+      "sha256": "1f1f806bd0cb75daae075ae8b5fd4e1e17c4d4f6c608d29c5dcc6e45b490614d",
+      "peak": 0.79001,
+      "pronunciation": "letter-names-v1"
+    },
+    "Sound is on. Let's play!": {
+      "file": "/audio/heart/28f802022d2deec9.mp3",
+      "seconds": 2.092,
+      "bytes": 21600,
+      "sha256": "a6e65b828f7769fac9e25a6c58345ee964ec9702ccf2895a29b41371bc9ab422",
+      "peak": 0.7326
+    },
+    "T. The letter T is for tree.": {
+      "file": "/audio/heart/fba1b35545bbcc52.mp3",
+      "seconds": 2.3327,
+      "bytes": 24000,
+      "sha256": "fba1b35545bbcc5220e4edbfe2e77f003b4d0646ab4de598eb1fab2c6b8a7ad9",
+      "peak": 0.88,
+      "pronunciation": "letter-names-v1"
+    },
+    "U. The letter U is for umbrella.": {
+      "file": "/audio/heart/3a5a6d7022ad736a.mp3",
+      "seconds": 2.472,
+      "bytes": 25200,
+      "sha256": "3a5a6d7022ad736a527a5f1cdbdec533c62818fb71ea27eacf6106d780ed7290",
+      "peak": 0.7297,
+      "pronunciation": "letter-names-v1"
+    },
+    "V. The letter V is for van.": {
+      "file": "/audio/heart/dbc9d124ae0892ee.mp3",
+      "seconds": 2.2913,
+      "bytes": 23520,
+      "sha256": "dbc9d124ae0892ee7b7318578d712a88217a5761e53ccecd5a9808cfefb3cd4e",
+      "peak": 0.73131,
+      "pronunciation": "letter-names-v1"
+    },
+    "W. The letter W is for whale.": {
+      "file": "/audio/heart/e68c5570d1013e62.mp3",
+      "seconds": 2.7107,
+      "bytes": 27600,
+      "sha256": "e68c5570d1013e627eccab8574c826bf42e81759cd18ade88bf39abb8a60e612",
+      "peak": 0.70763,
+      "pronunciation": "letter-names-v1"
+    },
+    "Where is the apple?": {
+      "file": "/audio/heart/2254dd28fba94f5d.mp3",
+      "seconds": 1.346,
+      "bytes": 14160,
+      "sha256": "55a8da41bd74e22d825a4221b2b1438d2b122464925ef1b2bdb5dfceff412457",
+      "peak": 0.88
+    },
+    "Where is the ball?": {
+      "file": "/audio/heart/064cb3049e65bb49.mp3",
+      "seconds": 1.2733,
+      "bytes": 13440,
+      "sha256": "590b1014d89304e880f0bfc1e43883e9ba1b811f7d1b749619c8ffbf343e6d8e",
+      "peak": 0.79087
+    },
+    "Where is the banana?": {
+      "file": "/audio/heart/0b7272c68186e87a.mp3",
+      "seconds": 1.3987,
+      "bytes": 14640,
+      "sha256": "07a08e1870ba18a8e76d3cce573cbbe99206387ba23cd5989497c38891ad1a4b",
+      "peak": 0.76148
+    },
+    "Where is the bird?": {
+      "file": "/audio/heart/9b04d9adf63a495a.mp3",
+      "seconds": 1.316,
+      "bytes": 13680,
+      "sha256": "23441fc5aecc03454c11b3587956ead1fce1e3d1ef03cd91105884988ee843cf",
+      "peak": 0.80408
+    },
+    "Where is the car?": {
+      "file": "/audio/heart/ab11611bf328dfac.mp3",
+      "seconds": 1.2847,
+      "bytes": 13440,
+      "sha256": "3d0365f03f7dc6785e6f221c81fee60eac17548ee1628f2a4eecf9b2b2c96750",
+      "peak": 0.74562
+    },
+    "Where is the cat?": {
+      "file": "/audio/heart/ba4dd41eacdaa440.mp3",
+      "seconds": 1.336,
+      "bytes": 13920,
+      "sha256": "82fd34a2d72a4d5d3ed3e1bda91f9b1f0bca8938875b0fee5cd159f995d9b68b",
+      "peak": 0.77056
+    },
+    "Where is the cup?": {
+      "file": "/audio/heart/8d8b5724d808fa23.mp3",
+      "seconds": 1.2606,
+      "bytes": 13200,
+      "sha256": "6abccde0f8499e77ca32a5b1a258c6bd90e84076cd2cdc01c936c4fdf501c2b1",
+      "peak": 0.72794
+    },
+    "Where is the dog?": {
+      "file": "/audio/heart/b3a4d1f425981a96.mp3",
+      "seconds": 1.306,
+      "bytes": 13680,
+      "sha256": "b2a41703a91160df5d1a885ef7bf317f50592154653284c356211f4dae0edd00",
+      "peak": 0.70406
+    },
+    "Where is the fish?": {
+      "file": "/audio/heart/72a6744641fdf0bc.mp3",
+      "seconds": 1.35,
+      "bytes": 14160,
+      "sha256": "5a518b1ee0c2b3e0e84420c7f6a65528ed03d37f556a9bb48a56e999866182f8",
+      "peak": 0.85061
+    },
+    "Where is the shoe?": {
+      "file": "/audio/heart/aaed4572db7cca2c.mp3",
+      "seconds": 1.316,
+      "bytes": 13680,
+      "sha256": "3879b1b18ef5524549400df385cea8d20f8ae20326df76f7a86e90d2e0985372",
+      "peak": 0.79966
+    },
+    "Where is the teddy bear?": {
+      "file": "/audio/heart/3ee47fb4461c20d7.mp3",
+      "seconds": 1.5453,
+      "bytes": 16080,
+      "sha256": "2bba0d2a88387c6ed76455a6ad7336685677c60b2582e0fbbed9a1912d858be6",
+      "peak": 0.88
+    },
+    "Where is the tree?": {
+      "file": "/audio/heart/747be0a3e1eadb5a.mp3",
+      "seconds": 1.3473,
+      "bytes": 14160,
+      "sha256": "931a1d50deed229c89033878151e4830665d8bcbd5c4a2bc96c5758ccebecb61",
+      "peak": 0.80729
+    },
+    "X. The letter X is at the end of fox.": {
+      "file": "/audio/heart/f78fc501035d9114.mp3",
+      "seconds": 2.8573,
+      "bytes": 29280,
+      "sha256": "f78fc501035d91148a3f4d4aef95a0404c02f3360c9b7b8d5ef5128624e578cb",
+      "peak": 0.6805,
+      "pronunciation": "letter-names-v1"
+    },
+    "Y. The letter Y is for yarn.": {
+      "file": "/audio/heart/bae45f0a0e18035a.mp3",
+      "seconds": 2.462,
+      "bytes": 25200,
+      "sha256": "bae45f0a0e18035a92914fe967b8f48d56793a43be439d5dd38e7b41e74bf4ee",
+      "peak": 0.75001,
+      "pronunciation": "letter-names-v1"
+    },
+    "You found the apple!": {
+      "file": "/audio/heart/c1ef451139cb001c.mp3",
+      "seconds": 1.4073,
+      "bytes": 14640,
+      "sha256": "74af2d932bab2c86e6cabd935b3b190b0670cdaaea735f81eb6f41e9f35c9670",
+      "peak": 0.65423
+    },
+    "You found the ball!": {
+      "file": "/audio/heart/856a46a15a04b2c8.mp3",
+      "seconds": 1.3333,
+      "bytes": 13920,
+      "sha256": "6ad3e8cc4f8519c1af0882ce2097f46d967882657f6f745d212ee7231a473f70",
+      "peak": 0.69609
+    },
+    "You found the banana!": {
+      "file": "/audio/heart/327de41cf8884e61.mp3",
+      "seconds": 1.4727,
+      "bytes": 15360,
+      "sha256": "949f4574ea7db738059824eb82a2865ba227922350f80b839c38d0ae723c7ec6",
+      "peak": 0.71603
+    },
+    "You found the bird!": {
+      "file": "/audio/heart/c885c32c73e012b7.mp3",
+      "seconds": 1.346,
+      "bytes": 14160,
+      "sha256": "39ef5ca86575799eb8d52ea65cf537dd6a0cf2392cd389f5071d27f4da14058c",
+      "peak": 0.7235
+    },
+    "You found the black!": {
+      "file": "/audio/heart/e26fb6acce6ecdd7.mp3",
+      "seconds": 1.366,
+      "bytes": 14160,
+      "sha256": "278a5f4bfe367d661390984ac0fa95493f873e51525883843d1fec25a1518371",
+      "peak": 0.76208
+    },
+    "You found the blue!": {
+      "file": "/audio/heart/12d0ab208c9495fd.mp3",
+      "seconds": 1.3447,
+      "bytes": 14160,
+      "sha256": "d70577928faadcc6ea2027ab5923a56cd755553190288d3e9f9d707f8d4b3eb3",
+      "peak": 0.83078
+    },
+    "You found the brown!": {
+      "file": "/audio/heart/0d1f59ac78ed620f.mp3",
+      "seconds": 1.3973,
+      "bytes": 14640,
+      "sha256": "c673c356899eef411ce554205bf9fb88732b8e78c25137b79958896d88a58054",
+      "peak": 0.71705
+    },
+    "You found the car!": {
+      "file": "/audio/heart/f28fb511db0c5384.mp3",
+      "seconds": 1.3347,
+      "bytes": 13920,
+      "sha256": "ae34658d91a5f4d9aca3e379ae1339bcfb133855957bb6319df77dfa496cbd50",
+      "peak": 0.72726
+    },
+    "You found the cat!": {
+      "file": "/audio/heart/a697e4d73ab1cb6d.mp3",
+      "seconds": 1.3546,
+      "bytes": 14160,
+      "sha256": "0204bbcd4c0929c3ac9525b8bf2568707a7a6fd2f1e5c83540fb1a0fa7d28e56",
+      "peak": 0.7246
+    },
+    "You found the circle!": {
+      "file": "/audio/heart/b9cc66dd4f2042f2.mp3",
+      "seconds": 1.494,
+      "bytes": 15600,
+      "sha256": "84664f6319d5711482dfeea54b91d7c10ec4fccb8fa89903e8af665d1c84d583",
+      "peak": 0.74807
+    },
+    "You found the cup!": {
+      "file": "/audio/heart/cc7d330053574c4a.mp3",
+      "seconds": 1.3233,
+      "bytes": 13920,
+      "sha256": "9ec79f7f4699999ad16498a0093d6b00029425eebc967aa8baf285708a10bf2c",
+      "peak": 0.69696
+    },
+    "You found the diamond!": {
+      "file": "/audio/heart/dfff4bc5834f7334.mp3",
+      "seconds": 1.5667,
+      "bytes": 16320,
+      "sha256": "143fb05789b4f004c4cdb3e7075323fa4d749636054a3474d4c848a7811fa3eb",
+      "peak": 0.73286
+    },
+    "You found the dog!": {
+      "file": "/audio/heart/2f8dba52d3eb596b.mp3",
+      "seconds": 1.366,
+      "bytes": 14160,
+      "sha256": "7877f174a221b9be5837fbd96b684e6b34880843e687bac5bb4b917b0bd5f268",
+      "peak": 0.7233
+    },
+    "You found the fish!": {
+      "file": "/audio/heart/5fb05ec319c98d21.mp3",
+      "seconds": 1.3886,
+      "bytes": 14400,
+      "sha256": "9bbc12eea0001b0c9ed24f81b2d9a78580357fff0b41dd79a34c06dc5c71fd41",
+      "peak": 0.83606
+    },
+    "You found the green!": {
+      "file": "/audio/heart/79f1b6d6ee772859.mp3",
+      "seconds": 1.4087,
+      "bytes": 14640,
+      "sha256": "38542366e23325298a380e6d9c5bf9fd544ba743d65154f6fccdae37e3274370",
+      "peak": 0.8071
+    },
+    "You found the heart!": {
+      "file": "/audio/heart/4d51adf6fdb40efc.mp3",
+      "seconds": 1.3973,
+      "bytes": 14640,
+      "sha256": "15dc11bd1dc20ad559f2c1d27d646a504009735a4ba8d4356d26d1e7bc09ec32",
+      "peak": 0.76462
+    },
+    "You found the orange!": {
+      "file": "/audio/heart/43dbed2af8ced59e.mp3",
+      "seconds": 1.44,
+      "bytes": 14880,
+      "sha256": "dc0e94bfc501dfd1e4a2353dd3cceae4908b50af72ce27b9b655c1215d913ff0",
+      "peak": 0.78187
+    },
+    "You found the oval!": {
+      "file": "/audio/heart/4b6ccb9b71beefc8.mp3",
+      "seconds": 1.4613,
+      "bytes": 15120,
+      "sha256": "a157efabdf8cedd176ef6171c3415893f3fd503a2e78eab2ba787c60552d363a",
+      "peak": 0.66623
+    },
+    "You found the pink!": {
+      "file": "/audio/heart/53b7d3f7be9cadfe.mp3",
+      "seconds": 1.376,
+      "bytes": 14400,
+      "sha256": "a0568b382559d5e38682cf87396327990f2dcb7759c5e6f52a516a67a28c196e",
+      "peak": 0.78461
+    },
+    "You found the purple!": {
+      "file": "/audio/heart/efa5d89f00df28cb.mp3",
+      "seconds": 1.4826,
+      "bytes": 15360,
+      "sha256": "d12afbe6d0c5b89cc9c50426ccf34d654b6ddc0b366408d90aecc577df44c9cc",
+      "peak": 0.66581
+    },
+    "You found the rectangle!": {
+      "file": "/audio/heart/033dc1b8deaf2fc9.mp3",
+      "seconds": 1.578,
+      "bytes": 16320,
+      "sha256": "0b97f42c2b77b67f2d32f862919e0a6dc81adf3cece7ba2dcdd336e3f46ac1b4",
+      "peak": 0.69569
+    },
+    "You found the red!": {
+      "file": "/audio/heart/928d910a400f8001.mp3",
+      "seconds": 1.3147,
+      "bytes": 13680,
+      "sha256": "83671c6f849ea6a789df6825a240f930c730a32826c121683e9cd01fe66343be",
+      "peak": 0.69205
+    },
+    "You found the shoe!": {
+      "file": "/audio/heart/c909aa051d6febe3.mp3",
+      "seconds": 1.3347,
+      "bytes": 13920,
+      "sha256": "c996e87e11e296003bacdf7398f30827398ea2be9db2022a6f11b1ed100124b1",
+      "peak": 0.79483
+    },
+    "You found the square!": {
+      "file": "/audio/heart/9b92ead1ee7f8c9a.mp3",
+      "seconds": 1.356,
+      "bytes": 14160,
+      "sha256": "dd4bd180b1938fd1379d44818d72489baeae5d867c86dfe23ba2b2adf6dc8a89",
+      "peak": 0.66943
+    },
+    "You found the star!": {
+      "file": "/audio/heart/15ac828c1d9d484e.mp3",
+      "seconds": 1.356,
+      "bytes": 14160,
+      "sha256": "33cfb1ea13f984e5b9d0103a9b85caa9b0ccbcc00b18e5f3f8ce60a6d687a6e5",
+      "peak": 0.77819
+    },
+    "You found the teddy bear!": {
+      "file": "/audio/heart/876dbcededa0c081.mp3",
+      "seconds": 1.5567,
+      "bytes": 16080,
+      "sha256": "5340bd500af1f7e0f9b4557bee0c410c3e46e94e4aaf1408ef15320e84066547",
+      "peak": 0.722
+    },
+    "You found the tree!": {
+      "file": "/audio/heart/733ba40b0b383efc.mp3",
+      "seconds": 1.3987,
+      "bytes": 14640,
+      "sha256": "f6c37b85d2b6898ce1749c2f43b4d0faa3efc967b76581c971f613624dd1b041",
+      "peak": 0.78747
+    },
+    "You found the triangle!": {
+      "file": "/audio/heart/c9ac6572db86e675.mp3",
+      "seconds": 1.5466,
+      "bytes": 16080,
+      "sha256": "f863d7a7e6bab7495187c6804f793fd529780648ebfbf6d67793cbb43617fe1f",
+      "peak": 0.70853
+    },
+    "You found the white!": {
+      "file": "/audio/heart/df702732d00a4d0c.mp3",
+      "seconds": 1.3773,
+      "bytes": 14400,
+      "sha256": "2618fa7eb9454b7be31476035125f5ccdcf3c8a37db40f80a34aaf747fb5b354",
+      "peak": 0.72236
+    },
+    "You found the yellow!": {
+      "file": "/audio/heart/db4a30d04ac96265.mp3",
+      "seconds": 1.4287,
+      "bytes": 14880,
+      "sha256": "b0132b147dbdfc26c781bc2fc2f78fe26432237f7b4d43f0403823260ea18998",
+      "peak": 0.68395
+    },
+    "Z. The letter Z is for zebra.": {
+      "file": "/audio/heart/6394927c0dfc5d7b.mp3",
+      "seconds": 2.4133,
+      "bytes": 24720,
+      "sha256": "6394927c0dfc5d7bf02851b11b99575b6934f2b9eda7ccc1b30563453d5cafdb",
+      "peak": 0.85392,
+      "pronunciation": "letter-names-v1"
+    },
+    "apple": {
+      "file": "/audio/heart/3a7bd3e2360a3d29.mp3",
+      "seconds": 0.9673,
+      "bytes": 10320,
+      "sha256": "145d7465eb6d5d3cf714b4adb08420929652da2da42b3698ae1e96dfde7c0dab",
+      "peak": 0.88
+    },
+    "ball": {
+      "file": "/audio/heart/e9de08263f4ad491.mp3",
+      "seconds": 0.7753,
+      "bytes": 8400,
+      "sha256": "ef0fdd63b1e18198c604d656fabf116607fbadc4d0e0bd41b1d2b0a7c62bcf80",
+      "peak": 0.79331
+    },
+    "banana": {
+      "file": "/audio/heart/b493d48364afe44d.mp3",
+      "seconds": 0.9247,
+      "bytes": 9840,
+      "sha256": "925564b3ca7fa4ba756333eb83ddf391d63616c3a01d5da0cceb4bbe88187f0e",
+      "peak": 0.6626
+    },
+    "bird": {
+      "file": "/audio/heart/7a5179eecc0fe187.mp3",
+      "seconds": 0.818,
+      "bytes": 8880,
+      "sha256": "bd1f3395dcaf481c5c534fd99c17f6281d8d5016c8ba5a88af63403ff574bbd0",
+      "peak": 0.6604
+    },
+    "black": {
+      "file": "/audio/heart/c006c7e3ab14d686.mp3",
+      "seconds": 0.7967,
+      "bytes": 8640,
+      "sha256": "20716188df94c604573349006f93fc8af49f5dd23928349024e518702b60185d",
+      "peak": 0.55491
+    },
+    "blue": {
+      "file": "/audio/heart/16477688c0e00699.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "83dc5a204a4601f73c92a90d164926eda5ebee98bef4d92542bf9399a65df1e2",
+      "peak": 0.59567
+    },
+    "brown": {
+      "file": "/audio/heart/5eb67f9f8409b9c3.mp3",
+      "seconds": 0.9033,
+      "bytes": 9600,
+      "sha256": "61624ee3b542d056b64c1e0516b94df6abb9a5e60e65610633b906e2d0b6a199",
+      "peak": 0.65242
+    },
+    "car": {
+      "file": "/audio/heart/2b2961a431b23c90.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "ff4ff00bd1a127cd3cb014b0cff631ade5541cbacd40385fde3a370610bb38f9",
+      "peak": 0.6187
+    },
+    "cat": {
+      "file": "/audio/heart/77af778b51abd4a3.mp3",
+      "seconds": 0.7967,
+      "bytes": 8640,
+      "sha256": "3b1ebbd5a08d367b1f2a631b59a19835f45b4f6363264ebc512d3369c784dba7",
+      "peak": 0.55606
+    },
+    "circle": {
+      "file": "/audio/heart/8a39178d327e72a9.mp3",
+      "seconds": 0.9887,
+      "bytes": 10560,
+      "sha256": "61dfcba670c9d09624d8056dee057de44a40b028facc1a9235fb1a7b61d17a5f",
+      "peak": 0.88
+    },
+    "cup": {
+      "file": "/audio/heart/c6171781d65f3ccc.mp3",
+      "seconds": 0.7753,
+      "bytes": 8400,
+      "sha256": "73057792d33b6dd8b74e3ca99d5e4dc8f4435808702cf38714111cf109df45e7",
+      "peak": 0.77942
+    },
+    "diamond": {
+      "file": "/audio/heart/81c9d6128b5fcd7b.mp3",
+      "seconds": 1.0527,
+      "bytes": 11040,
+      "sha256": "98662be49dcf6cc90f4f56053d924b755a06f1f569b1780e5ec856d012dee4f1",
+      "peak": 0.66502
+    },
+    "dog": {
+      "file": "/audio/heart/cd6357efdd966de8.mp3",
+      "seconds": 0.7967,
+      "bytes": 8640,
+      "sha256": "c7ca99594952485be8428e2dbd2f9f41dcfd62b6ca13cb613f0d29515a3843a0",
+      "peak": 0.61811
+    },
+    "fish": {
+      "file": "/audio/heart/b474a99a2705e23c.mp3",
+      "seconds": 0.882,
+      "bytes": 9360,
+      "sha256": "8eec02eaff1cccb4275e5afe523d3fd823c45921d685fec03d0a899d287f231e",
+      "peak": 0.87751
+    },
+    "green": {
+      "file": "/audio/heart/ba4788b226aa8dc2.mp3",
+      "seconds": 0.9673,
+      "bytes": 10320,
+      "sha256": "cbdbce401251bc0734f464b6efc4c1f36eaed727cd1231426a67f61ac51333a6",
+      "peak": 0.65165
+    },
+    "heart": {
+      "file": "/audio/heart/3cb968a982080be1.mp3",
+      "seconds": 0.882,
+      "bytes": 9360,
+      "sha256": "9ad8f25075e580e665b1cd03541bd535dca30f648a75a6d98032705f62ec486e",
+      "peak": 0.67499
+    },
+    "orange": {
+      "file": "/audio/heart/1b4c9133da73a711.mp3",
+      "seconds": 1.01,
+      "bytes": 10800,
+      "sha256": "6d3b82043789b105727b717520b343993a2b0a6027501745c9d54ab2a69ca3e3",
+      "peak": 0.63382
+    },
+    "oval": {
+      "file": "/audio/heart/3fb847f1d0c26c90.mp3",
+      "seconds": 0.9887,
+      "bytes": 10560,
+      "sha256": "54db11dfd5ee1c0f8c611c30ed1c23921d5ef6b4ae403e3de83eff40fda88f8c",
+      "peak": 0.88
+    },
+    "pink": {
+      "file": "/audio/heart/a67a41c8bc79d5da.mp3",
+      "seconds": 0.8607,
+      "bytes": 9120,
+      "sha256": "d096c95afd645910a4a348c6befbe15d9d06e734df7b4d3bc2117ba66d73fbf9",
+      "peak": 0.57217
+    },
+    "purple": {
+      "file": "/audio/heart/8e0a1b0ada421728.mp3",
+      "seconds": 0.946,
+      "bytes": 10080,
+      "sha256": "f05e3891c8e9ba4901c0aceacf76ea37776f653714e723818aa42dd5528ff22a",
+      "peak": 0.85701
+    },
+    "rectangle": {
+      "file": "/audio/heart/32dfed947e8bca93.mp3",
+      "seconds": 1.1593,
+      "bytes": 12240,
+      "sha256": "adfa938c8555a48be39cebba7e706b9bc136bf31fb39aeffad036ebced7d5fce",
+      "peak": 0.80074
+    },
+    "red": {
+      "file": "/audio/heart/b1f51a511f1da0cd.mp3",
+      "seconds": 0.7327,
+      "bytes": 7920,
+      "sha256": "7d01e4dc4d604e75528afeb5a96c8e56a47bed1cfa6ae774d38e0f541cf4310b",
+      "peak": 0.63295
+    },
+    "shoe": {
+      "file": "/audio/heart/efda1c925291a74c.mp3",
+      "seconds": 0.8607,
+      "bytes": 9120,
+      "sha256": "1a97b0f84924275c23202a68121de27c9fcbb86b5b1615ee576c2265d3faca45",
+      "peak": 0.67651
+    },
+    "square": {
+      "file": "/audio/heart/4ba3e8e3765f2970.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "667b657fccbc6c358253024bec4f6cc3f2358220c7dbc1c90f8d6d59c6ee1c7a",
+      "peak": 0.801
+    },
+    "star": {
+      "file": "/audio/heart/525eca1d5089dbdc.mp3",
+      "seconds": 0.8607,
+      "bytes": 9120,
+      "sha256": "79a517fc63637c2d76f618eec12d80b61a2159d62d38777273db4cd6ed4ffc05",
+      "peak": 0.71309
+    },
+    "teddy bear": {
+      "file": "/audio/heart/f6bc36134480b22f.mp3",
+      "seconds": 1.074,
+      "bytes": 11280,
+      "sha256": "90708d3a1158f4c25f460b097f3f22e26fe1c77d18992b0a6e75a1c245c834de",
+      "peak": 0.88
+    },
+    "tree": {
+      "file": "/audio/heart/dc9c5edb8b2d479e.mp3",
+      "seconds": 0.9247,
+      "bytes": 9840,
+      "sha256": "1a53e6918d4d4c05c67af88949bd72797414b434c74ff63d479d8f4750a287ee",
+      "peak": 0.62701
+    },
+    "triangle": {
+      "file": "/audio/heart/0a3f13c673af2389.mp3",
+      "seconds": 1.1167,
+      "bytes": 11760,
+      "sha256": "97c2c5e8cd51a9862db89fc3a7a5c213664b0ec2f6835714cda26e5cb89e9228",
+      "peak": 0.64053
+    },
+    "white": {
+      "file": "/audio/heart/018fa96a44715c90.mp3",
+      "seconds": 0.8393,
+      "bytes": 8880,
+      "sha256": "54c8ffe19341b168a344993cf8d3bdd6c205293acbfe28709c05d614522720f8",
+      "peak": 0.70695
+    },
+    "yellow": {
+      "file": "/audio/heart/c685a2c9bab235cc.mp3",
+      "seconds": 0.9673,
+      "bytes": 10320,
+      "sha256": "ae0cfef02f7d7c4060c330cf744d944a55a0b8643d3abb3330043225343a9839",
+      "peak": 0.58733
+    }
+  }
+}

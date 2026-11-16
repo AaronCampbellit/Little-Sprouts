@@ -1,0 +1,17 @@
+Little Sprouts — Heart narration
+
+These AI-generated recordings were created locally using the af_heart voice in
+Kokoro-82M v1.0 by hexgrad. They are not recordings of a live game narrator.
+
+Model and voice information:
+https://huggingface.co/hexgrad/Kokoro-82M
+https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
+The upstream model identifies its weights as Apache License 2.0.
+A copy is included at /licenses/Kokoro-Apache-2.0.txt.
+
+ONNX conversion and generation tooling: kokoro-onnx by thewh1teagle,
+https://github.com/thewh1teagle/kokoro-onnx
+Library license: MIT, included at /licenses/kokoro-onnx-MIT.txt.
+
+Only generated audio is distributed with the game; generation tools and model
+weights are not included in the production application.
